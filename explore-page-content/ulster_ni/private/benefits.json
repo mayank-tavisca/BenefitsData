@@ -1,0 +1,79 @@
+{
+  "banner": {
+    "type": "HeroBanner",
+    "content": {
+      "imageUrl": "/asset/ulster_ni/private/Online_breakfast_02_976x335.jpg",
+      "headingText": "Your ufirst Private\n \naccount benefits",
+      "buttonText": "",
+      "showImageInAllDevices": "true"
+    }
+  },
+  "section": [
+    {
+      "type": "marked",
+      "content": {
+        "heading": "Enjoy the additional benefits available with your ufirst Private account",
+        "content": "With a ufirst Private account from Ulster Bank you can enjoy multi trip worldwide travel insurance for you and your family, mobile phone cover, 15% cash back on ticket booking, worldwide airport lounge access, an interest-free arranged overdraft buffer and a preferential arranged overdraft rate*. If you close or downgrade your ufirst Private account you will no longer be entitled to the benefits.\n\n*You need to apply for the interest-free arranged overdraft buffer"
+      }
+    }
+  ],
+
+  "benefit": [
+    {
+      "title": "Annual Worldwide Family Travel Insurance",
+      "icon": "icon-plane",
+      "content": "Going on holiday? Enjoy worldwide travel with annual cover for trips of up to 31 days. This also includes up to 17 days per year for winter sports cover.",
+      "buttonText": "Use Benefit",
+      "path": "/explore/worldwide-travel-insurance"
+    },
+    {
+      "title": "Mobile Phone Insurance",
+      "icon": "icon-mobile",
+      "content": "Your mobile is covered against loss, theft, unauthorised calls, damage or breakdown, wherever you are in the world.",
+      "buttonText": "Use benefit",
+      "path": "/explore/mobile-phone-insurance"
+    },
+    {
+      "title": "Ticket Booking",
+      "icon": "icon-ticket",
+      "content": "Enjoy 15% cash back on tickets for the theatre, dance, opera, concert performances, sporting events and more.",
+      "buttonText": "Use benefit",
+      "path": "/explore/ticket-booking-service"
+    },
+    {
+      "title": "Interest-free arranged Overdraft buffer",
+      "icon": "icon-pound",
+      "content": "Like some extra breathing space for your finances or need some extra money before payday? You can apply for an interest free arranged overdraft buffer of up to £500",
+      "buttonText": "",
+      "path": "/explore/interest-free-arranged-overdraft-buffer"
+    },
+    {
+      "title": "Airport Lounge Access",
+      "icon": "icon-lounge",
+      "content": "Wherever you're traveling, being able to use the airport lounge is always a bonus - before a flight or in transit.",
+      "buttonText": "",
+      "path": "/explore/airport-lounge-access"
+    },
+    {
+      "title": "Preferential Arranged Overdraft Interest Rate",
+      "icon": "icon-pound",
+      "content": "A preferential arranged overdraft interest rate is available on your account.",
+      "buttonText": "",
+      "path": "/explore/preferential-arranged-overdraft-interest-rates"
+    }
+  ],
+  "benefitBlocks": [
+    {
+      "buttonText": "Manage your account",
+      "buttonUrl": "/account/manage-account",
+      "heading": "Manage your sign in details",
+      "blockText": "This is where you can change your personal details or password."
+    },
+    {
+      "buttonText": "View benefit usage",
+      "buttonUrl": "/account/recent-benefit-usage",
+      "heading": "View your past interactions with your benefits",
+      "blockText": ""
+    }
+  ]
+}

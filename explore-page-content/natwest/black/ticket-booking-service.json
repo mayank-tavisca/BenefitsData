@@ -1,0 +1,267 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Cash Back\n\nTicket Booking Service",
+                "buttonText": "Search for tickets today",
+                "imageUrl": "/asset/natwest/black/women-reading-newspaper.jpg",
+                "linkType": "external"
+            },
+            "sequenceNumber": 1
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Enjoy 25% cash back on tickets to the latest concerts and shows",
+                            "content": "Your Black Account gives you access to live entertainment at reduced prices. Receive 25% cash back on up to six tickets per event, at up to four events per year. Choose from theatre shows, musicals, operas and sporting events throughout the UK and Ireland."
+                        },
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 2
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's included?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Order up to six tickets",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "For each event booked. You can book up to four events per year.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Guaranteed 25% cash back",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Based on the normal face value price of the ticket.  \n(including booking fees and postage).",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "What you should know",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Re-sale",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "You can't resell your discounted tickets. You must also be attending the event.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Includes sporting events",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Receive 25% cash back on sporting events. These can only be booked online.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Need more than 6 tickets?",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "You can use the ticket service to order more than six tickets per event, but you'll pay full price for any additional tickets.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Usage limits",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "You'll receive cash back for a maximum of six tickets at up to four events each year (limit is per account).",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    }
+                ]
+            },
+            "sequenceNumber": 3
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/natwest/black/phone-in-hand.jpg",
+                "heading": "Decided what you want to see? \nBook online today",
+                "content": [
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Search and book online",
+                            "href": "https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=NatwestTicketShop"
+                        },
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Alternatively you can call us on\n\n*[0345 601 7188](tel:03456017188)*\n\n(Minicom 0345 600 0512). Lines are open Monday to Sunday 8am-10pm, except Christmas Day. Please be advised calls are recorded for training and quality assurance purposes.\n\ncan't find what you're looking for?\n\n[Send us a ticket enquiry email](/explore/ticket-booking-service/event-booking) or call us and we'll try and source the tickets for you.\n\n*[0345 601 7188](tel:03456017188)*\n\n(Minicom 0345 600 0512). Lines are open Monday to Sunday 8am-10pm, except Christmas Day. Please be advised calls are recorded for training and quality assurance purposes.",
+                        "sequenceNumber": 2
+                    }
+                ]
+            },
+            "sequenceNumber": 4
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Can I order more than six tickets?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You may be able to order more than six tickets, depending on availability, but you'll only receive cash back for a maximum of six tickets per event (limit is per account).",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "Can I order tickets for more than four events a year?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can order tickets for more than four events a year (based on availability), but you will only receive cash back for the first four events you order tickets for.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "heading": "Can I resell the tickets I buy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "No, they are for your own use only.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 3
+                    },
+                    {
+                        "heading": "How will my tickets be sent to me?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Depending on the venue, event or the period of time between your booking and the date of the event, tickets will be sent to you either:\n\n+ By email, where available and at your request\n+ By post to arrive no later than 48 hours before the event\n+ Or you may have the option to collect your tickets at the venue box office on the day of the event.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 4
+                    },
+                    {
+                        "heading": "How do I get my cash back after making a booking?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The cash back will appear in your online cash back summary within five days of booking and it will be paid into your Black Account within 30 days of your booking (subject to a successful payment transaction). You do not need to do anything to claim it.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 5
+                    }
+                ]
+            },
+            "sequenceNumber": 5
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "Black Account Benefit Terms ",
+                                "fileType": "PDF",
+                                "fileSize": "9.71MB",
+                                "fileUrl": "http://personal.natwest.com/content/dam/natwest_com/currentaccounts/downloads/Reward/Black%20Account%20Benefit%20Terms.pdf",
+                                "sequenceNumber": 1
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)",
+                        "className": "link"
+                    }
+                ]
+            },
+            "sequenceNumber": 6
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/ticket-booking-service",
+            "name": "Tickets Service"
+        }
+    ]
+}

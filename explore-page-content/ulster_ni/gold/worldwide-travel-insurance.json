@@ -1,0 +1,371 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Annual worldwide family \n\ntravel insurance  ",
+                "buttonText": "Make a claim",
+                "imageUrl": "/asset/ulster_ni/gold/home-page-gold.jpg",
+                "linkType": "external"
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "On your next holiday its good to know you’re covered when you open your ufirstgold account.",
+                            "content": "ufirstgold gives you and your family multi-trip worldwide travel insurance of up to 31 days per trip, that covers you all year round. This also includes up to 17 days winter sports cover per year.\n\nWorldwide Travel Insurance is underwritten by U K Insurance Limited."
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What you should know",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Existing medical conditions",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "If you or anyone who relies on this Travel Insurance policy has an existing medical condition, this condition is not covered by this policy until you have called for medical screening and received confirmation of cover. If you wish to see if cover is available, [click here]('') to answer a few questions. Alternatively, you can call U K Insurance Limited on *[0370 600 0661](tel:03706000661)*. Lines are open Monday to Friday 8am - 8pm, Saturday 9am-5pm and Sunday 10am-5pm. Please be advised calls are recorded for training and quality assurance purposes. You may be required to pay an additional premium or cover may not be extended by the underwriter."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "heading": "Family protection",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Children covered under this policy must be under 18 at the start date of the journey (or up to 23 and in full-time education), living at the home address (or with the other parent), unmarried or not entered into a civil partnership."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "UK, ROI or Channel Islands trips",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "These must be pre-booked, at least two nights in duration and a minimum of 25 miles from your home address."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "heading": "Residency",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "You must live in the UK, Republic of Ireland or Channel Islands and have not spent more than six months abroad during the last year."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "What's covered?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Medical and other expenses",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £10 million. Excess of £35 applies."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "heading": "Personal accident",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £20,000."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "heading": "Legal expenses",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £50,000. Excess of £75 applies."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "heading": "Cancelling or cutting short your holiday",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £2,500. Excess of £35 applies."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "heading": "Travel delay",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Each full eight-hour period of delay £10 (Max £400)."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Sending you home in an emergency",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £1 million. Excess of £35 applies."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "heading": "Personal liability",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £1 million. Excess of £100 applies."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "heading": "Personal belongings, baggage and money",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £1,500. Excess of £35 applies."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "heading": "Abandoning your holiday",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £2,500."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "If you close or downgrade your ufirst Private account you will no longer be entitled to the benefits.\n\n**Worldwide Travel Insurance:**  \n– The maximum trip duration is 31 days  \n– Winter sports cover is restricted to 17 days per year.  \n– Dependent children over 18 (or over 23 in full time education) are not covered under this policy.  \n– Travel within the UK, ROI or Channel Islands is only covered if you stay at least 2 nights in pre-booked accommodation at least 25 miles away from where you usually live.  \n– You must live in the UK, Republic of Ireland or Channel Islands and have not spent more than six months abroad during the last year.  \n– You or any member of your family are not covered for any claim directly relating to an existing medical condition unless you have called 0370 600 0661 (Opening hours are Monday to Friday 8am-9pm, Saturday 9am-5pm and Sunday 10am-5pm) for screening and cover has been confirmed.\n\nWorldwide Travel Insurance is underwritten by U K Insurance Limited, The Wharf, Neville Street, Leeds, LS1 4AZ. Registered in England and Wales. Company No. 1179980.  \nU K Insurance Limited is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Please be advised calls are recorded for training and quality assurance purposes."
+                    },
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "ufirstgold Banking User Guide",
+                                "fileType": "PDF",
+                                "fileSize": "603KB",
+                                "fileUrl": "http://www.ulsterbank.co.uk/ufirstgolduserguide"
+                            },
+                            {
+                                "title": "A guide to personal fees and charges",
+                                "fileType": "PDF",
+                                "fileSize": "309KB",
+                                "fileUrl": "http://www.ulsterbank.co.uk/documents/ni/Guide_to_Personal_Account_Fees_Interest.pdf"
+                            },
+                            {
+                                "title": "Ufirst Gold Account Insurance Product Information Document",
+                                "fileType": "PDF",
+                                "fileSize": "569KB",
+                                "fileUrl": "http://www.ulsterbank.co.uk/ufirstgoldIPID"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "className": "link",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/ulster_ni/gold/travel_books.png",
+                "heading": "Need to make a claim? No worries, we'll help",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "To make a travel insurance claim, [click here]('') to register your claim or call \n\n*[0370 600 0661](tel:03706000661)* \n\nLines are open Monday to Friday 8am - 6pm. Please be advised calls are recorded for training and quality assurance purposes\n\nOverseas? If you are overseas and need emergency assistance, call us on\n\n*[+44 (0)1252 740 141](tel:0441252740141)*\n\nLines are open 24/7, 365 days a year. Charges may apply and please be advised calls are recorded for training and quality assurance purposes."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "How do I register for travel insurance?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You don't need to register. Cover is provided automatically unless you or anyone covered under this policy have an existing medical condition. If this is the case, you must call us on *[0370 600 0661](tel:03706000661)*. Lines are open 8am-8pm Monday to Friday and 9am-5pm Saturday and 10am - 5pm Sunday (excluding Bank and Public holidays). Please be advised calls are recorded for training and quality assurance purposes.\n\nYou may be required to pay an additional premium or cover may not be extended by the underwriter."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Where can I find my policy number?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you have been medically screened or purchased an upgrade your documents will show the number you need to use.\n\nWe don't issue individual policy numbers. Instead you can use our generic number UF2109.\n\nIf your travel organisation needs you to provide evidence that you have travel insurance in force, please refer to the [ufirstgold User Guide (PDF, 929Kb)](http://www.ulsterbank.co.uk/ufirstgolduserguide)."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Do I need to take my policy document with me when I go on holiday?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Your policy document may come in handy if you have to seek medical attention - so we would recommend that you take it with you."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How can I get a copy of my policy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can download a copy of your policy using the link below:\n\n[ufirstgold User Guide](http://www.ulsterbank.co.uk/ufirstgolduserguide)\n\nIf you would like a hard copy of the policy, call us on *[0370 600 0661](tel:03706000661)*. Lines are open 8am-8pm Monday to Friday and 9am-5pm Saturday and 10am - 5pm Sunday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Can I add other cover to my policy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, you can add business, wedding, golf and hazardous activity cover. There's an extra premium for these types of cover. Call us on *[0370 600 0661](tel:03706000661)* for more information. Lines are open 8am-8pm Monday to Friday and 9am-5pm Saturday and 10am - 5pm Sunday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Who is covered under the policy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Apart from you, the policy also covers your partner and any dependent children. Dependent children must be:\n\n+ Under 18 at the start date of the journey (or up 23 and in full-time education)\n+ Living at the home address (or with the other parent)\n+ Unmarried and not entered into a civil partnership. \n\nDependent Children and any guests added to the policy must be travelling with the ufirstgold Account Holder or their partner as they cannot travel independently and be covered by this insurance.\n\nIf any person travelling under the policy has an existing medical condition, you must call us on *[0370 600 0661](tel:03706000661)*. Lines are open 8am-8pm Monday to Friday, 9am-5pm Saturday and 10am - 5pm Sunday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes.\n\nYou may have to pay an extra premium or cover may be declined for that condition.\n\nYou can pay to add guests to the policy, as long as they're travelling with you. Call us on *[0370 600 0661](tel:03706000661)*, for more information. Lines are open 8am-8pm Monday to Friday and 9am-5pm Saturday and 10am - 5pm Sunday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Does the policy cover holidays in the UK, Republic of Ireland and Channel Island?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, provided the holiday involves pre-booked accommodation of at least two nights and is at least 25 miles from your home address."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "What's the longest holiday that can be covered under the policy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The maximum length of trip is 31 days for all holidays, including 17 days winter sport holidays. You can request an extension to trip length for an additional cost, ring *[0370 600 0661](tel:03706000661)* for a quote. Lines are open 8am-8pm Monday to Friday, 9am-5pm Saturday and 10am - 5pm Sunday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Can more than one trip be covered each year?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, there's no limit on the number of trips that can be covered each year."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "When can I call to upgrade my cover, make a claim or to get emergency assistance or to make a complaint?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "+ For emergency assistance call *[+44 1252 740141](tel:0441252740141)*, lines are open 24 hours a day, 7 days a week. Please be advised calls are recorded for training and quality assurance purposes.\n\n+ For upgrades and medical screening enquiries, claims and complaints call *[0370 600 0661](tel:3706000661)*, lines are open 8am-8pm Monday to Friday, 9am-5pm Saturday and 10am - 5pm Sunday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "I'm overseas and need emergency travel assistance, who do I contact?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you require emergency travel assistance when you are overseas, you can call us on *[+44 (0) 125 2740141](tel:0441252740141)*. Lines are open 24 hours a day, 7 days a week. Call charges apply and please be advised calls are recorded for training and quality assurance purposes."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Have you additional packaged accounts with Ulster Bank?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, you may not be entitled to any extra benefits by holding multiple accounts. You will also be charged an additional monthly account fee on the new packaged account."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Are you living outside Northern Ireland or the rest of the UK?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you are living outside Northern Ireland or the rest of the UK or plan on living outside Northern Ireland or the rest of the UK, it is important to note that some of the benefits attached to your account are only available when you are visiting Northern Ireland or the rest of the UK or when you are resident in Northern Ireland or the rest of the UK. For further information please call ufirstgold Membership Services on *[0370 600 0661](tel:03706000661)* or *[0044 2392 676 740](tel:0442392676740)* if calling from outside the UK."
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/worldwide-travel-insurance",
+            "name": "Travel Insurance"
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "ufirst Account\n\ntravel service",
+                "buttonText": "Call to book your holiday now",
+                "buttonURL": "section3",
+                "linkType": "sectionJump",
+                "imageUrl": "/asset/ulster_ri/uFirst/travel-service.jpg"
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Save on package holidays, hotel booking and airport parking in Ireland and all around the world",
+                            "content": "Planning a weekend getaway, family holiday or a romantic trip away? Your money goes further when you’re a ufirst member. With a 10% discount off weekend breaks, hotels, holidays, car hire and overseas travel, you could travel further, more often. You are automatically entitled to this benefit."
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's included?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Up to 10% off selected holidays",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "+ Holiday packages, tours and cruises\n+ Tickets for scheduled airline flights\n+ Tickets for any chartered airline flights offered to the public\n+ Holiday cottages and villas\n+ Ferry tickets\n+ Hotel accommodation",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "What are the key exclusions?",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "The following can be booked, but you will not receive a discount:\n\n+ Low cost Airlines\n+ Tour Operator direct promotions which cannot be booked through a Travel Agency\n+ Any amount in excess of the published base price, for example, surcharges or optional products\n\nThe following cannot be booked:\n\n+ Any reservations which cannot be booked through a Travel Agency\n+ Non-UK based Low Cost Airlines and Ryanair\n+ Travel into Cuba"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/ulster_ri/uFirst/travel_books.png",
+                "heading": "Book today",
+                "content": [
+                    {
+                        "type": "marked",
+                        "className": "subHeading",
+                        "content": "Make savings for you and your family on package holidays, hotels, tours and cruises, weekends away, car hire, flights and much more"
+                    },
+                    {
+                        "type": "marked",
+                        "content": "You can book by phone: Call ufirst Membership Services on\n\n*[1890 925 067](tel:1890925067)*\n\nPlease be advised calls are recorded for training and quality assurance purposes.\n\nLines are open Monday to Friday, 8am-8.30pm and 8am-6pm on weekends and Bank Holidays, closed Christmas Day."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Will I receive 10% discount on everything I book?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The 10% discount is applied to the published basic cost of the travel product(s) purchased. Any amount in excess of the published base price of the eligible travel, including: surcharges (penalty payments/fares), taxes, supplements, excess baggage charges, pre-paid ticket charges, mileage charges, insurance, flight/room/board upgrades, in-flight meals, transfers, excursions, charges for extra leg room, children's club will not be discounted. Please see the terms and conditions in the ufirst User Guide for more details."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Will I need to pay the full amount when I book?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "For most travel products you will be required to pay the full amount when booking. For package holidays, bookings require full payment at the time of booking for holidays departing within 14 weeks. If you make your booking more than 14 weeks prior to your departure date you will be required to pay a deposit. You need to pay the balance 14 weeks before departure."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How quickly will I receive all my travel documentation after booking?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "When you book online, you will receive an automated acknowledgement email within 24 hours. Confirmation documentation detailing your travel arrangements will be sent within one business day (Monday to Friday). Please check these and inform us immediately if they are incorrect. Your tickets (where applicable) and any other documents relating to your booking will be sent to the address which you gave at the time of booking. These will be sent (where applicable) to you at least 2 weeks prior to departure. For bookings made within 2 weeks of departure it may be necessary for us to make arrangements for you to collect your tickets from the departure airport."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How do I make a complaint?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you're not satisfied with any aspect of the service received please contact a ufirst Travel Service customer service representative who will assist you. You will be asked to put your specific complaint in writing in order to forward to the relevant tour operator or supplier. Please call ufirst Membership Services on *[1890 925 067](tel:1890925067)* or alternatively email [customerservices@ufirsttravel.co.uk](\"customerservices@ufirsttravel.co.uk\")."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "What is ATOL and how does it protect me?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "ATOL is a financial protection scheme for holidaymakers. If an ATOL tour operator fails, the ATOL scheme ensures customers contracted with the ATOL holder for an air package or a flight do not lose their money or are not stranded abroad.\n\nWe act as an authorised agent for a number of tour operators who hold an ATOL licence. The tour operator invoice you receive will detail the operator's ATOL number. When you buy an air package or flight packaged by Affinion International Travel Limited our ATOL number is 9935. For more information visit the ATOL website at www.atol.org.uk.\n\nIf you book a package holiday that does not include a flight, most tour operators provide financial protection via The Association of British Travel Agents (ABTA). For more information visit the ABTA website at www.abta.com. If you book arrangements other than a package holiday or flight, for example accommodation or car hire, ATOL protection does not apply."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Can I open more than one packaged account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, please note that there may not be any additional advantage for you opening another account for the following benefits: Travel Service, Tailored Personal Loan Rates, Tailored Mortgage Rates and the Car Insurance discount (if you have more than two packaged accounts). You will also be charged an additional monthly membership fee on the new packaged account."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Are all the benefits available if I live abroad?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you are living abroad or plan on living abroad, it is important to note that some of the benefits attached to your account are only available when you are visiting the Republic of Ireland or when you are resident in the Republic of Ireland. For further information please call ufirst Membership Services on *[1890 925 067](tel:1890925067)* or from outside the Republic of Ireland call *[0044 2392 676 832](tel:00442392676832)*."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "If you close or downgrade your ufirst account you will no longer be entitled to the benefits.\n\nTravel Service is provided by Affinion International. For more information you can contact Membership Services.\n\nPlease note that the Travel Service is not an activity regulated by the Central Bank of Ireland."
+                    },
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "ufirst User Guide",
+                                "fileType": "PDF",
+                                "fileSize": "532KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/ufirst-user-guide-ULST881RI.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "className": "link",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+                    }
+                ]
+            },
+            "sequenceNumber": 5
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/travel-service",
+            "name": "Travel Service"
+        }
+    ]
+}

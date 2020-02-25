@@ -1,0 +1,90 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "How to make\n\na claim",
+                "buttonText": "",
+                "buttonUrl": "",
+                "imageUrl": "/asset/ulster_ni/private/make-a-claim.jpg",
+                "linkType": "external"
+            }
+        },
+        {
+            "type": "CustomWidthWrapper",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "IntuitiveMessages",
+                        "metaData": {
+                            "topLeftIcon": "icon-quote-left",
+                            "bottomRightIcon": "icon-quote-right",
+                            "width": "33.3%",
+                            "padding": "16px 0px 0px 16px",
+                            "content": [
+                                {
+                                    "type": "marked",
+                                    "content": "If your phone is stolen, you should inform the police and get a crime reference number."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Section",
+                        "metaData": {
+                            "styleNames": [
+                                "background-transparent",
+                                "no_base_padding",
+                                "make-claim-page"
+                            ],
+                            "width": "66.6%",
+                            "padding": "16px",
+                            "noBasePadding": true,
+                            "content": [
+                                {
+                                    "type": "marked",
+                                    "content": {
+                                        "className": "marked_content_font",
+                                        "content": "### First things first \n\n+ All claims must be reported to the insurer as soon as possible after discovering the loss or other incident. \n\n+ If your phone has been lost or stolen, you must contact your network provider as soon as reasonably possible. \n\n+ If your phone is stolen, you should inform the police and get a crime reference number as soon as reasonably possible. \n\n &nbsp;\n &nbsp;\n\n### If you're outside the UK at the time of discovering the incident \nYou must:\n\n+ Contact your network provider as soon as reasonably possible after discovering the loss or theft. \n\n+ Register your claim as soon as possible. \n\nIf your phone is stolen, you should inform the police and get a crime reference number as soon as reasonably possible. Please note we won't replace your device until you return to the UK.\n\n### How to make a claim"
+                                    }
+                                },
+                                {
+                                    "type": "linkButton",
+                                    "content": {
+                                        "text": "Incidents occurring on 30th September or earlier",
+                                        "className": "make_claim_link_button",
+                                        "href": "https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=CarPhoneWarehouse&title=Mobile+Phone+Insurance+-+Private+Claim-CarPhoneWarehouse&data-tracking=Link%2cClick%2cRegister+Handset"
+                                    }
+                                },
+                                {
+                                    "type": "linkButton",
+                                    "content": {
+                                        "text": "Incidents occurring on 1st October or later",
+                                        "className": "make_claim_link_button",
+                                        "href": "https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=RBSBrightstar&title=Mobile+Phone+Insurance+-+Private+Claim-RBSBrightstar&data-tracking=Link%2cClick%2cRegister+Handset"
+                                    }
+                                },
+                                {
+                                    "type": "marked",
+                                    "content": {
+                                        "content": "or Call us on:\n&nbsp;\n\n *[0345 607 2538](tel:03456072538)* \n\n &nbsp;\n &nbsp;\n\nLines are open 8am-8pm Monday to Friday, 9am-6pm Saturday, 10am-5pm Sunday. Bank Holidays will be opened during the same hours noted. Closed on Christmas Day and New Year's Day. Please be advised calls are recorded for training and quality assurance purposes."
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/mobile-phone-insurance",
+            "name": "Mobile Phone Insurance"
+        },
+        {
+            "path": "",
+            "name": "Make a Claim"
+        }
+    ]
+}

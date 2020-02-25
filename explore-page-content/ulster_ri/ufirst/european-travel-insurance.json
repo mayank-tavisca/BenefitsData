@@ -1,0 +1,191 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "European travel\n\ninsurance",
+                "buttonText": "You must call to register for this benefit",
+                "buttonURL": "section3",
+                "linkType": "sectionJump",
+                "imageUrl": "/asset/ulster_ri/uFirst/Online_breakfast_02_976x335.jpg"
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "European cover for you and your family- perfect for your summer holiday and more!",
+                            "content": "You must call to register for this benefit."
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's covered?",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "This benefit gives you and your family multi-trip European Travel Insurance up to 15 days per trip throughout the year. It also includes cover up to 15 days per year for Winter Sports Trips."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How to register",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "European Travel Insurance is introduced by Ulster Bank to the insurance provider and underwriter U K Insurance Limited. You must register for European Travel Insurance by calling ufirst Membership Services on 1890 925 067, who will introduce you to U K Insurance Limited, who will provide you with additional information relating to the insurance policy and will be able to register you for cover, or support you with a claim on query if you have an existing policy."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Do you have an existing medical condition?",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "className": "numberLink",
+                                                "content": "You will not be covered for claims relating to any pre-existing medical conditions. Call ufirst Membership Services on *[1890 925 067](tel:1890925067)* who will introduce you to to U K Insurance Limited for more information relating to the policy."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How it works",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "You must call to register for the policy. Please note the insurance is only in force for as long as you have your ufirst account. If you close or downgrade your ufirst account you will no longer be entitled to the benefits."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/ulster_ri/uFirst/travel_books.png",
+                "heading": "Travelling?",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "You can register for European Travel Insurance cover, or make a claim if you are already registered by calling ufirst Membership Services on\n\n*[1890 925 067](tel:1890925067)*\n\nwho will introduce you to U K Insurance Limited who will be able to provide you further information and assistance."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Can I open more than one packaged account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, please note that there may not be any additional advantage for you opening another account for the following benefits: Travel Service, Tailored Personal Loan Rates, Tailored Mortgage Rates and the Car Insurance discount (if you have more than two packaged account). You will also be charged an additional monthly account on the new packaged account."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Are all the benefits available if I live abroad?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you are living abroad or plan on living abroad, it is important to note that some of the benefits attached to your account are only available when you are visiting the Republic of Ireland or when you are resident in the Republic of Ireland. For further information please call ufirst Membership Services on *[1890 925 067](tel:1890925067)* or from outside the Republic of Ireland call *[0044 2392 676 832](tel:00442392676832)*."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "If you close or downgrade your ufirst account you will no longer be entitled to the benefits.\n\nFor more information in relation to this benefit or how to make a claim, call *[1890 925 067](tel:1890925067)* . Lines for European Travel Insurance are open Monday to Friday 9am–5pm and Saturday 10am-4pm. Please be advised calls are recorded for training and quality assurance purposes.\n\nEuropean Travel Insurance is introduced by Ulster Bank to the insurance provider and underwriter U K Insurance Limited. U K Insurance Limited is authorised by the Prudential Regulation Authority in the United Kingdom and is regulated by the Central Bank of Ireland for conduct of business rules. U K Insurance Limited. Registered office: The Wharf, Neville Street, Leeds LS1 4AZ Registered in England and Wales No.1179980."
+                    },
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "ufirst User Guide",
+                                "fileType": "PDF",
+                                "fileSize": "532KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/ufirst-user-guide-ULST881RI.pdf"
+                            },
+                            {
+                                "title": "A guide to personal accounts fees and intrest",
+                                "fileType": "PDF",
+                                "fileSize": "174KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/a-guide-to-personal-accounts-fees-and-interest-ULST1376RI.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "className": "link",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+                    }
+                ]
+            }
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/european-travel-insurance",
+            "name": "European Travel Insurance"
+        }
+    ]
+}

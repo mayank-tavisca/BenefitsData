@@ -1,0 +1,312 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Ticket\n\nservice",
+                "buttonText": "Book now",
+                "imageUrl": "/asset/ulster_ri/private/ticket-service-private.jpg",
+                "buttonURL": "",
+                "linkType": "external"
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Make the most of your account with unforgettable days and nights out",
+                            "content": "You are automatically entitled to this benefit.  \nEnjoy 25% cash back off tickets for the theatre, dance, opera, sporting events, concert performances and more throughout the Republic of Ireland, Northern Ireland and the rest of the UK."
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's included?",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "__Guaranteed 25% cash back__ - based on the normal face value price of the ticket and provided tickets are ordered as outlined below and in line with the terms and conditions of the Ticket Booking benefit contained within the [ufirst Private user guide](http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/private-banking-user-guide-ULST773RI.pdf).\n\n__Receive cash back on up to four tickets per event__ – for each event booked.\n\n__No limit__ – take advantage of this cash back as often as you like\n\nTo ensure receipt of your cash back, following the completion of your online booking you must return to the ufirst Private Tickets Service page on ufirstaccount.ie and confirm your booking reference number provided to you by Ticketmaster in the box provided. Please see section [How to claim your cash back](#multiSection2) for an online booking below.\n\n"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Main Exclusions",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "+ You can't resell your tickets, and must be attending the event.\n\n+ You may be able to order more than four tickets, but you will pay full price for any additional tickets.\n\n+ Bookings can only be made for events taking place in the UK and the Republic of Ireland.\n\n+ You must order tickets as outlined below. If you order tickets in any other way we will be unable to provide you with the 25% cash back."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How to claim your cash back for an online booking?",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "To ensure receipt of your 25% cash back for an online booking, the steps below must be followed:\n\n+ Log on to [www.ufirstaccount.ie](http://www.ufirstaccount.ie) and go to the Ticket Booking page and click on the Book Now button.\n\n+ Select __Search and book online__ and enter the details of the event you wish to attend.  \nYou will be presented with the events that meet your search criteria or prompted to click on a link to go directly to the Ticketmaster site where no results are found.\n\n+ __Complete your online booking__ on the Ticketmaster site - you will receive a booking reference number on the Ticketmaster confirmation page and within the confirmation email Ticketmaster send you.  \nYou must __return to the ufirst Private Tickets Service page__ on [ufirstaccount.ie](http://ufirstaccount.ie) and __confirm your booking reference__ number provided to you by Ticketmaster in the box provided.\n\n+ __Enter__ your booking reference number and Click __Submit__ in the box provided.\n\n+ A __confirmation__ page will appear confirming receipt of your cash back claim. Your cash back claim will appear in your online cash back summary within five days of booking (subject to a successful payment transaction), and will be paid into your ufirst Private account within 30 days of your booking.\n\nPlease refer to the [ufirst Private user guide](http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/private-banking-user-guide-ULST773RI.pdf) and terms and conditions for further information on the ticket booking benefit.\nTicket master events can be booked online or by calling the Ticket Concierge Service on *[1890 825 125](tel:1890825125)*.\n\nTicket booking lines are open: Monday to Friday, 8am-8pm, excluding Bank Holidays and 9am-5pm Saturday."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/ulster_ri/private/ticket-booking-article.jpg",
+                "heading": "Decided what you want to see? Book online today",
+                "content": [
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Search and book online",
+                            "href": "https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=UlsterRITicketShop"
+                        }
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Alternatively you can call us on\n\n*[1890 825 125](tel:1890825125)*\n\nLines are open Monday to Friday, 8am-8pm, excluding Bank Holidays and 9am-5pm Saturday\n\n#### Can't find what you're looking for?\n\n[Send us a ticket enquiry email](/explore/ticket-booking-service/event-booking) or call us and we'll try and source the tickets for you."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Can I resell the tickets I buy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "No, they are for your own use only."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Is there a limit to the number of tickets I can book per event?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can book as many tickets as the website shows are available to you, or as advised by the Ticket Concierge Service but you are only eligible for cash back on up to four tickets per event. Please refer to the full terms and conditions in your [ufirst Private user guide](http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/private-banking-user-guide-ULST773RI.pdf). Some popular events have a restriction imposed by the venue, event organiser, promoter or ticket agent on the number of tickets per household that can be purchased."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Can I save the website address to my 'Favourites'?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, but if you want to do this, please ensure that you use the address www.ufirstaccount.ie. You need to ensure that you log into the Members website for each session when you browse and book tickets. If you don?t log in at the start of each session, you may not be recognised as a ufirst Private customer, and will not receive your cash back."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "What happens if an event is cancelled?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you purchase tickets using the Ticket Booking Service and the event is subsequently cancelled, you'll get a full refund of the price paid at the time of purchase to the credit or debit card used to purchase the ticket(s) on the website originally. In this situation, the Ticket Booking Service reserve the right to retrieve the cash back paid to you at the time of the purchase of the ticket. For more details, see your full terms and conditions in the [ufirst Private user guide](http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/private-banking-user-guide-ULST773RI.pdf)."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Why do tickets sell out so quickly for popular events?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "When a popular event goes on sale there are sometimes thousands of customers simultaneously attempting to purchase tickets across all distribution channels. Like any limited commodity, tickets are sold as long as seats are available, and sometimes they go quickly. If 500 fans are simultaneously buying 4 tickets each, 2,000 tickets can be sold in a matter of seconds. It is the same reason why a typical 18,000-seat arena can sell out in a few minutes. Also, in many cases, tickets are held by the promoter or venue therefore reducing the quantity of tickets available for purchase by the general public."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Why are 'better' tickets sometimes available days after the event goes on sale?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "A venue may release more tickets for sale as the event date approaches. This happens for several reasons such as the promoter may no longer need the tickets that were held when the event originally went on sale, or, once the stage or event area is set up, the venue has a better idea about which seats are obstructed. Additionally, sometimes a customer attempts to buy tickets but their credit card is declined. If a valid card or billing address cannot be secured, that customer?s booking may be cancelled and the tickets released for sale."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "If the website has sold out of tickets for the event I wish to attend is there another way I can get hold of tickets?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If there is overwhelming demand for a particular event and the website has sold out, it may not be possible to secure tickets from another source. You can contact the Ticket Concierge Service on *[1890 825 125](tel:1890825125)* who will try to accommodate any specific request you may have, by sourcing an alternative supplier for the desired event tickets, however success cannot be guaranteed. Please note bookings can only be made by the Ticket Concierge Service for events taking place in the Republic of Ireland and the United Kingdom and we can only source tickets where they are available at face value."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Can I book tickets on the same day as the event?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, if you are booking an event where your tickets can be emailed to you or there is the option to collect them at the venue box office before the performance. In some instances it may be necessary for a printed ticket to be sent to you by post so please try and book further in advance where possible, to avoid disappointment."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How will my tickets be sent to me?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Depending on the venue, event or the period of time between your booking and the date of the event, tickets will be sent to you either:\n\n+ By email, where available and at your request\n+ By post to arrive no later than 48 hours before the event\n+ Or you may have the option to collect your tickets at the venue box office on the day of the event."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How do I claim my cash back after making a booking?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The Cash back will appear in your online cash back Summary within five days of booking (subject to a successful payment transaction), and will be paid into your ufirst Private account within 30 days of your booking.\n\nTo ensure that your cash back payment is paid automatically for online bookings please __provide us with the booking reference__ you receive from Ticketmaster."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Is there a limit to the amount of cash back I can receive?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Provided you are an eligible ufirst Private account holder, there is no limit to the number of times you can use the service to book tickets. Please refer to the full terms and conditions in your [ufirst Private user guide](http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/private-banking-user-guide-ULST773RI.pdf) before using this service or making a booking."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How long does it take after I purchase tickets for the cash back to be credited to my current account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Your cash back will be credited to your ufirst Private account within 30 days of the date you purchase your tickets."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How will I know when my cash back has been paid into my bank account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The status of the cash back amount will change to -Paid- in your online cash back Summary once the cash back has been credited to your bank account and will appear on your bank statement as -Tickets Cash back-."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "What happens if I do not receive my cash back confirmation email within five days of booking my tickets?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "It is possible that you may not receive your cash back confirmation email if you have accidentally entered your email address incorrectly, or if the email has been blocked by spam or security settings on your computer. If we see that it has not been possible to deliver the email, we will send you a letter in the post to confirm your cash back. Even if you have not received your cash back confirmation email, you should still be able view your cash back due by logging in to www.ufirstaccount.ie and clicking on My Cash back. If your cash back does not appear in your Cash back Summary and it is more than five days since you booked your tickets, please contact a Ticket Concierge Adviser on *[1890 825 125](tel:1890825125)*."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "What happens if the cash back has not been credited to my bank account more than 30 days after I booked my tickets?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you?ve not received your cash back and it is more than 30 days since you purchased your tickets, please contact a Ticket Concierge Adviser on *[1890 825 125](tel:1890825125)*."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Can I book events outside of the UK and Ireland and receive cash back?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You may be able to book tickets for events outside of ROI and the United Kingdom on the website but the cash back offer only applies to tickets for events taking place in the Republic of Ireland and the United Kingdom. The Ticket Concierge Service can only book tickets for events in the Republic of Ireland and the United Kingdom. If you book tickets in sterling for an event taking place in the United Kingdom, the cash back earned will be in Euro using the average daily exchange rate as published by www.oanda.com on the previous business day to the day of the booking. This may vary from the exchange rate used by your payment card issuer."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Have you additional packaged accounts with Ulster Bank?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, please note that there may not be any additional advantage for you opening another account for the following: Travel Service, Airport Lounge Access, Tailored Personal Loan Rates, Tailored Mortgage Rates, Commission Free Travel Money, Worldwide Travel Insurance and Car Insurance discount (if you have more than two packaged accounts). You will also be charged an additional monthly membership fee on the new packaged account."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Are you living outside Northern Ireland or the rest of the UK?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you are living abroad or plan on living abroad, it is important to note that some of the benefits attached to your account are only available when you are visiting the Republic of Ireland or when you are resident in the Republic of Ireland. For further information please call ufirst Private Membership Services on *[1890 825 125](tel:1890825125)* or from outside the Republic of Ireland call *[00 44 2392 676 982](tel:00442392676982)*."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "ufirst Private User Guide",
+                                "fileType": "PDF",
+                                "fileSize": " 604KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/private-banking-user-guide-ULST773RI.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "className": "link",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+                    }
+                ]
+            }
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/ticket-booking-service",
+            "name": "Tickets Service"
+        }
+    ]
+}

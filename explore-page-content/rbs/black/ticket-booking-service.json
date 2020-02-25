@@ -1,0 +1,237 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Ticket Service",
+                "buttonText": "Search for tickets today",
+                "imageUrl": "/asset/rbs/black/women-reading-newspaper.jpg",
+                "linkType": "external"
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Enjoy 25% cash back on tickets to the latest concerts and shows",
+                            "content": "Your Black Account gives you access to live entertainment at reduced prices. Receive 25% cash back on up to six tickets per event, at up to four events per year. Choose from theatre shows, musicals, operas and sporting events throughout the UK and Ireland."
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's included?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Order up to six tickets",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "For each event booked. You can book up to four events per year."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Guaranteed 25% cash back",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Based on the normal face value price of the ticket. \n(including booking fees and postage)"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "What you should know?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Re-sale",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "You can't resell your discounted tickets. You must also be attending the event."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "heading": "Includes sporting events",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Receive 25% cash back on sporting events. These can only be booked online."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Need more than 6 tickets?",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "You can use the Ticket Booking Service to order more than six tickets per event, but you'll pay full price for any additional tickets."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "heading": "Usage limits",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "You'll receive cash back for a maximum of six tickets at up to four events each year (limit is per account)."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/rbs/black/phone-in-hand.jpg",
+                "className": "imagebanner_heading",
+                "heading": "Decided what you want to see? Book online today",
+                "content": [
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Search and book online",
+                            "href": "https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=RBSTicketShop"
+                        }
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Alternatively you can call us on *[0345 266 8801](tel:03452668801)* (Minicom 0370 600 0856). Lines are open Monday to Sunday 8am-10pm, except Christmas Day. Please be advised calls are recorded for training and quality assurance purposes.\n\n#### Can't find what you're looking for?\n\n[Send us a ticket enquiry email](/explore/ticket-booking-service/event-booking) call us and we'll try and source the tickets for you.\n\n*[0345 266 8801](tel:03452668801)*\n\n(Minicom 0370 600 0856). Lines are open Monday to Sunday 8am-10pm, except Christmas Day. Please be advised calls are recorded for training and quality assurance purposes."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Can I order more than six tickets?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You may be able to order more than six tickets, depending on availability, but you'll only receive cash back for a maximum of six tickets per event (limit is per account)."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Can I order tickets for more than four events a year?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can order tickets for more than four events a year (based on availability), but you will only receive cash back for the first four events you order tickets for."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Can I resell the tickets I buy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "No, they are for your own use only."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How will my tickets be sent to me?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Depending on the venue, event or the period of time between your booking and the date of the event, tickets will be sent to you either:\n\n+ By email, where available and at your request\n+ By post to arrive no later than 48 hours before the event\n+ Or you may have the option to collect your tickets at the venue box office on the day of the event."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Can I book tickets on the same day as the event?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, if you are booking an event where your tickets can be emailed to you or there is the option to collect at the venue box office prior to the performance. In some instances it may be necessary for a printed ticket to be sent to you by post so please try and book further in advance where possible, to avoid disappointment."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How do I get my cash back after making a booking?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The cash back will appear in your online cash back summary within five days of booking and it will be paid into your Graduate Royalties Account within 30 days of your booking (subject to a successful payment transaction). You do not need to do anything to claim it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "Black Account Benefit Terms",
+                                "fileType": "PDF",
+                                "fileSize": "4.63MB",
+                                "fileUrl": "http://personal.rbs.co.uk/content/dam/rbs_co_uk/currentaccounts/downloads/Reward/Black%20Account%20Benefit%20Terms.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "className": "link",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+                    }
+                ]
+            }
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/ticket-booking-service",
+            "name": "Tickets Service"
+        }
+    ]
+}

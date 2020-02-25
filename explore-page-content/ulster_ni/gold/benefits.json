@@ -1,0 +1,65 @@
+{
+  "banner": {
+    "type": "HeroBanner",
+    "content": {
+      "imageUrl": "/asset/ulster_ni/gold/home-page-gold.jpg",
+      "headingText": "Your ufirstgold\n\naccount benefits",
+      "buttonText": "",
+      "showImageInAllDevices": "true"
+    }
+  },
+  "section": [
+    {
+      "type": "marked",
+      "content": {
+        "heading": "Enjoy the additional benefits available with your ufirstgold account",
+        "content": "With a ufirstgold account from Ulster Bank you can enjoy multi-trip worldwide travel insurance for you and your family, mobile phone cover, 15% cash back on ticket booking and an interest-free arranged overdraft buffer. If you close or downgrade your ufirstgold account you will no longer be entitled to the benefits."
+      }
+    }
+  ],
+
+  "benefit": [
+    {
+      "title": "Annual Worldwide Family Travel Insurance",
+      "icon": "icon-plane",
+      "content": "Going on holiday? Enjoy worldwide travel with annual cover for trips of up to 31 days. This also includes up to 17 days per year for winter sports cover.",
+      "buttonText": "Use benefit",
+      "path": "/explore/worldwide-travel-insurance"
+    },
+    {
+      "title": "Mobile Phone Insurance",
+      "icon": "icon-mobile",
+      "content": "Your mobile is covered against loss, theft, unauthorised calls, damage or breakdown, wherever you are in the world.",
+      "buttonText": "Use benefit",
+      "path": "/explore/mobile-phone-insurance"
+    },
+    {
+      "title": "Ticket Booking",
+      "icon": "icon-ticket",
+      "content": "Enjoy 15% cash back on tickets for the theatre, dance, opera, concert performances, sporting events and more.",
+      "buttonText": "Use benefit",
+      "path": "/explore/ticket-booking-service"
+    },
+    {
+      "title": "Interest-free arranged Overdraft buffer",
+      "icon": "icon-coins",
+      "content": "Like some extra breathing space for your finances or need some extra money before payday? You can apply for an interest free arranged overdraft buffer of up to £500.",
+      "buttonText": "",
+      "path": "/explore/interest-free-arranged-overdraft-buffer"
+    }
+  ],
+  "benefitBlocks": [
+    {
+      "buttonText": "Manage your account",
+      "buttonUrl": "/account/manage-account",
+      "heading": "Manage your sign in details",
+      "blockText": "This is where you can change your personal details or password."
+    },
+    {
+      "buttonText": "View benefit usage",
+      "buttonUrl": "/account/recent-benefit-usage",
+      "heading": "View your past interactions with your benefits",
+      "blockText": ""
+    }
+  ]
+}

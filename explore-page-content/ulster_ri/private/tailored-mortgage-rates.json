@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "type": "HeroBanner",
+      "metaData": {
+        "headingText": "ufirst Private tailored\n\nmortgage rates",
+        "buttonText": "You can apply for this benefit",
+        "buttonURL": "section3",
+        "linkType": "sectionJump",
+        "imageUrl": "/asset/ulster_ri/private/interest-free.jpg"
+      }
+    },
+    {
+      "type": "Section",
+      "metaData": {
+        "content": [
+          {
+            "type": "marked",
+            "content": {
+              "heading": "ufirst Private customers can enjoy a discount on variable mortgage rates",
+              "content": "Apply for an Ulster Bank mortgage and you can enjoy tailored variable mortgage rates. \n\nWhether you're a first time buyer, moving home or looking to remortgage, there could be an Ulster Bank mortgage that's right for you."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "MultiSection",
+      "metaData": {
+        "sections": [
+          {
+            "heading": "What you should know",
+            "className": "multisection_bottom_margin",
+            "content": [
+              {
+                "orientation": "row",
+                "content": [
+                  {
+                    "heading": "",
+                    "content": [
+                      {
+                        "type": "marked",
+                        "content": "The discount applies up to a maximum loan to value of 80% for ufirst Private customers.\n\n**Illustrative quote**\n\nAssuming a total amount of credit of €100,000 repayable over 20 years at a borrowing rate of 3.55% (variable), the cost per month is €582.53 excluding insurance. The total amount to be repaid is €139,845.20 which includes a release of security fee of €38. The Annual Percentage Rate of Charge is 3.6% (variable). The additional cost per month of a 1% rise in the rate of interest of such a mortgage is €52.82 and would be payable monthly.\n\nThis quotation is for illustrative purposes only and the actual repayment may vary. For the latest rates please check our website.\n\nIf the Variable Rate Mortgage with a ufirst Private discount is not the best deal for you, we have a full range of mortgages which you can choose from.\n\n[More on Ulster Bank Variable Rate Mortgages]('')."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "heading": "",
+            "content": [
+              {
+                "orientation": "row",
+                "content": [
+                  {
+                    "heading": "",
+                    "content": [
+                      {
+                        "type": "marked",
+                        "className": "warning",
+                        "content": "VARIABLE RATE LOANS: THE PAYMENT RATES ON THIS HOUSING LOAN MAY BE ADJUSTED BY THE LENDER FROM TIME TO TIME.\n\nWARNING: YOUR HOME IS AT RISK IF YOU DO NOT KEEP UP PAYMENTS ON A MORTGAGE OR ANY OTHER LOAN SECURED ON IT.\n\nWARNING: IF YOU DO NOT MEET THE REPAYMENTS ON YOUR LOAN, YOUR ACCOUNT WILL GO INTO ARREARS. THIS MAY AFFECT YOUR CREDIT RATING, WHICH MAY LIMIT YOUR ABILITY TO ACCESS CREDIT IN THE FUTURE."
+                      },
+                      {
+                        "type": "marked",
+                        "className": "multisection_section_subsection",
+                        "content": "Lending criteria terms and conditions. Security and insurance are required. Credit facilities are subject to repayment capacity and financial status and are not available to persons under 18 years of age. The loan amount is not based on one fixed formula. Factors reflecting the repayment capacity of each applicant are individually assessed based on a combination of factors including qualifying income, net disposable income and existing commitments. Minimum mortgage amount is €40,000. The maximum sum advanced is the lower of the purchase price or value of the property. A maximum loan to value of 80% is available for customers who have a ufirst Private current account. The minimum term of the mortgage is 5 years and the maximum term is 35 years, subject to serviceability after retirement age. Home insurance is required.\n\n[Please read this important information about mortgages]('')."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "ImageBanner",
+      "metaData": {
+        "imageUrl": "/asset/ulster_ri/private/mobile_phone.png",
+        "heading": "Apply for a tailored mortgage rate",
+        "content": [
+          {
+            "type": "marked",
+            "content": "You can apply for a mortgage with tailored rates by contacting your Relationship Manager"
+          }
+        ]
+      }
+    },
+    {
+      "type": "AccordionComponent",
+      "metaData": {
+        "heading": "Here's what other people are asking",
+        "content": [
+          {
+            "heading": "Can I open more than one packaged account?",
+            "content": [
+              {
+                "type": "marked",
+                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, please note that there may not be any additional advantage for you opening another account for the following: Travel Service, Airport Lounge Access, Tailored Personal Loan Rates, Tailored Mortgage Rates, Commission Free Travel Money, Worldwide Travel Insurance and Car Insurance discount (if you have more than two packaged accounts). You will also be charged an additional monthly membership fee on the new packaged account."
+              }
+            ]
+          },
+          {
+            "heading": "Are all the benefits available if I live abroad?",
+            "content": [
+              {
+                "type": "marked",
+                "content": "If you are living abroad or plan on living abroad, it is important to note that some of the benefits attached to your account are only available when you are visiting the Republic of Ireland or when you are resident in the Republic of Ireland. For further information please call ufirst Private Membership Services on *[1890 825 125](tel:1890825125)* or from outside the Republic of Ireland call *[00 44 2392 676 982](tel:00442392676982)*."
+              }
+            ]
+          },
+          {
+            "heading": "Where can I find out more information about Ulster Bank mortgages?",
+            "content": [
+              {
+                "type": "marked",
+                "content": "Please click [here]('') for further information."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "AdditionalInfo",
+      "metaData": {
+        "heading": "Important additional information",
+        "content": [
+          {
+            "type": "marked",
+            "className": "textLink",
+            "content": "[Please read this important information about mortgages]('')"
+          },
+          {
+            "type": "file",
+            "content": [
+              {
+                "title": "ufirst Private User Guide",
+                "fileType": "PDF",
+                "fileSize": " 603KB",
+                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/private-banking-user-guide-ULST773RI.pdf"
+              },
+              {
+                "title": "A guide to personal accounts fees and interest ",
+                "fileType": "PDF",
+                "fileSize": " 351KB",
+                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/a-guide-to-personal-accounts-fees-and-interest-ULST1376RI.pdf"
+              }
+            ]
+          },
+          {
+            "type": "marked",
+            "className": "link",
+            "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+          }
+        ]
+      }
+    }
+  ],
+  "breadCrumb": [
+    {
+      "path": "/explore/tailored-mortgage-rates",
+      "name": "Tailored Mortgage Rates"
+    }
+  ]
+}

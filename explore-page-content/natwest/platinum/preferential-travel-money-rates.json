@@ -1,0 +1,250 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Preferential Travel\n \nMoney Rates",
+                "buttonText": "Order your travel money online today",
+                "imageUrl": "/asset/natwest/platinum/preferential-money.jpg",
+                "linkType": "external"
+            },
+            "sequenceNumber": 1
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Travel Money at a preferential rate, delivered to your door",
+                            "content": "Get preferential rates on currency delivered to your home at no extra charge. Your Travel Money order value must be at least £100 to qualify for preferential exchange rates and home delivery at no extra charge."
+                        },
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 2
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's included?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Preferential rates",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Helping your holiday money to go further.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Wide selection of currencies available",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Over 60 currencies for foreign notes.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Complimentary delivery",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Direct to your home or any NatWest branch.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Unused currency",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "We'll gladly buy back your unused currency at any NatWest branch.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 3
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/natwest/platinum/couple-cuddling.jpg",
+                "heading": "Order your travel money online or over the phone",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "You'll need to provide your personal information, delivery address and payment card.\n\nYou can choose between home (UK registered address of your payment card only) and branch delivery. Payment will be requested at the time you order (from a debit or credit card) and once the order has been finalised and processed it cannot be cancelled.\n\nAll information is sent over a secure connection to safeguard your privacy and security.",
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Order travel money online",
+                            "href": "https://localhost:44396/PartnerJump.aspx?partner=TravelExNAT&title=Travel+Money"
+                        },
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "type": "marked",
+                        "content": "\n#### Order by phone\n\nCall\n\n*[0345 609 0453](tel:03456090453)*\n\n(Minicom *[0345 600 0512](tel:03456000512)*). Lines are open 8am-10pm Monday to Friday and 10am-8pm on Saturday and Sunday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes.",
+                        "sequenceNumber": 3
+                    }
+                ]
+            },
+            "sequenceNumber": 4
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Can I choose where my travel money is delivered?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Your travel money can be delivered to the UK registered payment card addresses only. If you'd prefer, you can collect the money at any NatWest branch instead. Simply let us know when you place your order.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "How long will my travel money take to arrive?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The earliest your order will be delivered will be:\n\n+ After 1.00pm the next working day, for orders placed before 2.00pm on any working day.\n+ After 1.00pm in 2 working days, for orders placed after 2.00pm on any working day.\n+ After 1.00pm on Tuesday, for orders placed on Friday afternoon or at the weekend.\n+ Saturday deliveries are available but cannot be guaranteed, i.e. if you request delivery for a Saturday it may arrive Saturday or Monday.\n+ You can specify a delivery date up to 10 days in advance.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "heading": "Can I order travel money from my local branch?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, but you'll not enjoy the same preferential exchange rates offered by the Platinum Account Travel Service.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 3
+                    },
+                    {
+                        "heading": "Can I buy foreign currency over the counter at my branch?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, some branches offer an on demand service, where you can get instant access to pre-packed bundles of Euros and US Dollars. However, you'll not enjoy the same preferential exchange rates offered by the Platinum Travel Service.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 4
+                    },
+                    {
+                        "heading": "What are the minimum and maximum amounts I can order?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The minimum order value is £100. The maximum order for a single transaction is £2,500. The maximum order in any 60 day period is £3,000.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 5
+                    },
+                    {
+                        "heading": "Can I request specific denominations?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can choose from small, mixed or large denominations and we'll make every effort to match your request. However, this can't always be guaranteed and depends on the currency availability in the market.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 6
+                    },
+                    {
+                        "heading": "When can I call to order travel money?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Lines are open 8am to 10pm Monday to Friday and 10am to 8pm Saturday and Sunday (excluding bank and public holidays).",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 7
+                    }
+                ]
+            },
+            "sequenceNumber": 5
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "Platinum Account Benefit Terms",
+                                "fileType": "PDF",
+                                "fileSize": " 548KB",
+                                "fileUrl": "http://personal.natwest.com/content/dam/natwest_com/currentaccounts/downloads/Reward/Platinum%20Benefit%20Terms.pdf",
+                                "sequenceNumber": 1
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)",
+                        "className": "link"
+                    }
+                ]
+            },
+            "sequenceNumber": 6
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/preferential-travel-money-rates",
+            "name": "Travel Money"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Worldwide airport\n\nlounge access",
+                "buttonText": "",
+                "buttonUrl": "",
+                "imageUrl": "/asset/ulster_ni/private/airport-lounge-access.jpg",
+                "linkType": "external"
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Access over 1,000 participating airport lounges using your DragonPass Premier membership card",
+                            "content": "Your ufirst Private account gives you access to over 1,000 airport lounges worldwide plus discounts at 1,000+ airport restaurants and cafes. There's also the option to pre-book selected lounges to avoid disappointment for a £5 per person supplement.\n\nFull details about your DragonPass Premier membership can be found at [website](https://ubni.dragonpasspremier.com/)"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's included?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Unlimited access to over 1,000 airport lounges",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Including lounges in more then 20 airports in the UK, subject to availability [View lounges](https://ubni.dragonpasspremier.com/). Each joint account holder will receive their own membership card."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "heading": "Pre-book your space in selected lounges",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "So that you can still access lounges at busy times, use our pre-booking service for just £5 per person per visit."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Discounts at airport restaurants and spas",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Receive discounts at 1,000+ airport cafes and restaurants. Or truly unwind before you fly with exclusive discounts available at spas and nail bars.\n[View benefits](https://ubni.dragonpasspremier.com/)."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "heading": "Travelling with guests?",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Guests travelling with you can also use the lounges for a payment of £20 each (charged to your ufirst Private account.)."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Start your journey off in comfort; use your DragonPass Premier membership",
+                            "content": "Once you have received your Membership Card in the mail, simply present your Membership Card, your passport and flight ticket or boarding pass for the same day of travel at participating lounges. Don't forget you can also access all your benefits through the dedicated DragonPass Premier smartphone app. It's free to download from the Apple App Store and Google Play Store - search for DragonPass Premier.\n\nYou can check eligible lounges [here](https://ubni.dragonpasspremier.com/) or over the phone on *[ 0345 607 2538](tel:03456072538)*. Phone lines are open 24 hours a day, seven days a week. Call costs from networks may vary. Calls from mobile phones may not be free. Please be advised calls are recorded for training and quality assurance purposes.\n\nFacilities and restrictions vary so please check before you travel.\n\nEntry to a lounge is conditional upon presentation of a valid DragonPass Card. Your DragonPass Card will be sent to you by post once your ufirst Private account has been opened.\n\nYou should always check a lounge before travelling for details of location, opening hours, amenities, etc.\n\nThe DragonPass programme can have lounges added or removed at any time.\n\nSome lounges may have a maximum stay limit, may not allow children to enter, or have other restrictions."
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Which lounges can I visit and are there any restrictions?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "There are over 1,000 participating lounges worldwide that you can visit. You can check eligible lounges [online](https://ubni.dragonpasspremier.com/), on the DragonPass Premier app or over the phone *[0345 607 2538](tel:03456072538)*.\n\nFacilities vary lounge by lounge so we recommend you check before you travel. Full restrictions (including child restrictions and opening hours) are listed [online](https://ubni.dragonpasspremier.com/) under each individual lounge. If you are joint account holders, both individuals must present their own membership cards at the lounge. If you would like to take guests into the lounge with you, you can do this at a charge of £20 per person per visit, charged to your ufirst Private account. You can find more information on lounges [here](https://ubni.dragonpasspremier.com/) or please call 0345 607 2538 .\nPhone lines are open 24 hours a day, seven days a week. Call costs from networks may vary and calls from mobile phones may not be free. Please be advised calls are recorded for training and quality assurance purposes."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "What do we do if we have a joint account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You will both receive your own membership card to gain access to airport lounges and receive discounts at restaurants and spas. It is essential that each joint account holder presents their own membership card to the lounge reception. If one of the account holders does not present their membership card to the lounge reception, they will be treated as a guest and a £15 guest visit fee will be applied to the account holder's (with the membership card) ufirst Private account."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "What if I am travelling with other people who do not have a ufirst Private Account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can invite guests to join you in the lounges for the standard rate of £20 per person per visit (which will be charged to your ufirst Private account). Most lounges will allow any number of guests, however there may be limits. You can find more information on lounges [here](https://ubni.dragonpasspremier.com/) or please, call [0345 607 2538](tel:03456072538). Phone lines are open 24 hours a day, seven days a week. Call costs from networks may vary and calls from mobile phones may not be free. Please be advised calls are recorded for training and quality assurance purposes.s"
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Do I have to be flying to use a lounge?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, access to a lounge is granted only to ufirst Private Account customers and guests who have a passport and valid boarding pass for that day's travel."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How do I know where the lounges are located within the airport?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can find more information on lounges [here](https://ubni.dragonpasspremier.com/), in the DragonPass Premier app or please call [0345 607 2538](tel:03456072538). Phone lines are open 24 hours a day, seven days a week. Call costs from networks may vary and calls from mobile phones may not be free. Please be advised calls are recorded for training and quality assurance purposes."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "I'm calling from overseas, what telephone number should I use to contact Membership Services?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you require Airport Lounge assistance when you are overseas, you can reach us on [00 44 2392 676 573](tel:00442392676573). Phone lines are open 24 hours a day, seven days a week. Please be advised calls are recorded for training and quality assurance purposes."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Have you additional packaged accounts with Ulster Bank?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, you may not be entitled to any extra benefits by holding multiple accounts. You will also be charged an additional monthly account fee on the new packaged account."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Are you living outside Northern Ireland or the rest of the UK?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you are living outside Northern Ireland or the rest of the UK or plan on living outside Northern Ireland or the rest of the UK, it is important to note that some of the benefits attached to your account are only available when you are visiting Northern Ireland or the rest of the UK or when you are resident in Northern Ireland or the rest of the UK. For further information please call ufirst Private Membership Services on [0345 607 2538](tel:03456072538) or from outside the UK call [00 44 2392 676 573](tel:00442392676573)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/airport-lounge-access",
+            "name": "Airport Lounge Access"
+        }
+    ]
+}

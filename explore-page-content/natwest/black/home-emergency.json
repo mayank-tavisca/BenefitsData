@@ -1,0 +1,261 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Home Emergency",
+                "buttonText": "",
+                "imageUrl": "/asset/natwest/black/family-at-home.jpg",
+                "linkType": "external"
+            },
+            "sequenceNumber": 1
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Home Emergency Service, is provided and underwriten by U K Insurance Limited",
+                            "content": "Who can you turn to for help in your hour of need? You can relax, as a Black Account customer, we'll put you in safe hands and cover your repairs up to £750."
+                        },
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 2
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's included?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "24 hour helpline",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "We know emergencies can happen any time, day or night.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Approved repairers",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Finding someone you can count on can be a challenge so we've taken care of that.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Up to 2 homes covered",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "We cover your main residence and any second home you own in the UK.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Cover up to £750",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Per call out for parts and labour including VAT.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "What you should know",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Main exclusions",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "You will not be covered for:\n\n+ external water supply pipes\n+ boilers over 10 years old (or with an output over 75kw)\n+ any emergency if your home has been unoccupied for more\nthan 60 consecutive days\n+ detached garages and outbuildings.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Location exclusions",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "You will not be covered for homes in:\n\n+ Northern Ireland\n+ The Channel Islands\n+ The Scilly Isles\n+ The Isle of Man.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            },
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "Important",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "This is not a buildings or contents insurance policy or an equipment maintenance contract. It’s recommended you have a building insurance policy covering your home and a contents insurance policy covering your possessions.",
+                                                "sequenceNumber": 1
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    }
+                                ],
+                                "sequenceNumber": 2
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    }
+                ]
+            },
+            "sequenceNumber": 3
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/natwest/black/woman-mobile-cab.jpg",
+                "heading": "Emergency? Call us now",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "If you need help from our Home Emergency Service, call\n\n*[0345 601 7188](tel:03456017188)*\n\n(Minicom 0370 600 0856). Lines are open 24/7, 365 days a year. Please be advised calls are recorded for training and quality assurance purposes.",
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 4
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "What kind of event would be considered to be an emergency?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "An emergency means an incident in the home, which if it's not dealt with quickly, will:\n\n+ Make the home unsafe or insecure\n+ Cause damage to the home and its contents\n+ Leave the home with a total loss of its main source of heating, lighting or hot or cold water",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "What homes are covered?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "To be covered, the home must be owned by you and be your permanent, or secondary, private place of residence. Detached garages and outbuildings are not covered. Your home can be in the United Kingdom or the Isle of Wight. Homes in Northern Ireland, the Channel Islands, the Scilly Isles and the Isle of Man are excluded.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "heading": "What if some of my personal items – such as clothes or a television – are damaged by the incident, will you replace them?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "No. If appropriate, we will replace or repair the item or appliance which caused the damage but you may be able to claim for the loss or damage to any personal possessions under your household contents insurance.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 3
+                    }
+                ]
+            },
+            "sequenceNumber": 5
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "Black Account Benefit Terms ",
+                                "fileType": "PDF",
+                                "fileSize": " 4.63MB",
+                                "fileUrl": "http://personal.natwest.com/content/dam/natwest_com/currentaccounts/downloads/Reward/Black%20Account%20Benefit%20Terms.pdf",
+                                "sequenceNumber": 1
+                            },
+                            {
+                                "title": "Black Account Insurance Product Information Document",
+                                "fileType": "PDF",
+                                "fileSize": " 669KB",
+                                "fileUrl": "http://www.natwest.com/BlackAccountIPID",
+                                "sequenceNumber": 2
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)",
+                        "className": "link"
+                    }
+                ]
+            },
+            "sequenceNumber": 6
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/concierge-service",
+            "name": "Home Emergency"
+        }
+    ]
+}

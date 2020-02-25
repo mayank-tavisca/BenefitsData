@@ -1,0 +1,226 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Worldwide Airport\n\nLounge Access",
+                "imageUrl": "/asset/rbs/black/man-looking-in-mobile.jpg",
+                "linkType": "external"
+            },
+            "sequenceNumber": 1
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Access over 1,000 participating airport lounges using your DragonPass Premier membership card",
+                            "content": "Your Black Account gives you access to over 1,000 airport lounges worldwide plus discounts at 1,000+ airport restaurants and cafes. There's also the option to pre-book selected lounges to avoid disappointment for a £5 per person supplement.  \nFull details about your DragonPass Premier membership can be found at [rbs.dragonpasspremier.com](https://rbs.dragonpasspremier.com/)"
+                        },
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 2
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's included?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Unlimited access to over 1,000 airport lounges",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Including lounges in more then 20 airports in the UK, subject to availability [View lounges](https://rbs.dragonpasspremier.com/). Each joint account holder will receive their own membership card.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Pre-book your space in selected lounges",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "So that you can still access lounges at busy times, use our pre-booking service for just £5 per person per visit.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Discounts at airport restaurants and spas",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Receive discounts at 1,000+ airport cafes and restaurants. Or truly unwind before you fly with exclusive discounts available at spas and nail bars. [View benefits](https://rbs.dragonpasspremier.com/).",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Travelling with guests?",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Guests travelling with you can also use the lounges for a payment of £20 each (charged to your Black account.).",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 3
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Start your journey off in comfort; use your DragonPass Premier membership",
+                            "content": "Once you have received your Membership Card in the mail, simply present your Membership Card, your passport and flight ticket or boarding pass for the same day of travel at participating lounges. Don't forget you can also access all your benefits through the dedicated DragonPass Premier smartphone app. It's free to download from the Apple App Store and Google Play Store - search for DragonPass Premier.\n\nYou can check eligible lounges over the phone on *[0345 266 8801](tel:03452668801)* (Minicom *[0370 600 0856](tel:03706000856)*). Facilities and restrictions vary so check before you travel. Lines are open 24 hours a day, 7 days a week. Please be advised calls are recorded for training and quality assurance purposes."
+                        },
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 4
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Which lounges can I visit and are there any restrictions?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "There are over 1,000 participating lounges worldwide that you can visit. You can check eligible lounges [online](https://rbs.dragonpasspremier.com/), on the DragonPass Premier app or over the phone on *[0345 266 8801](tel:03452668801)* (Minicom 0345 600 0512), 24 hours a day, 7 days a week. Please be advised calls are recorded for training and quality assurance purposes.\n\nFacilities vary lounge by lounge so we recommend you check before you travel. Full restrictions (including child restrictions and opening hours) are listed [online](https://rbs.dragonpasspremier.com/) under each individual lounge. If you are joint account holders, both individuals must present their own membership cards at the lounge. If you would like to take guests into the lounge with you, you can do this at a charge of £20 per person per visit, charged to your Black Account. For more information on visiting lounges go [online](https://rbs.dragonpasspremier.com/), check out the DragonPass Premier App or alternatively, call *[0345 266 8801](tel:03452668801)* (Minicom 0345 600 0512) to find out more.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "What do we do if we have a joint account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You will both receive your own membership card to gain access to airport lounges and receive discounts at restaurants and spas.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "heading": "What if I am travelling with other people who do not have a Black Account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can invite guests to join you in the lounges for the standard rate of £20 per person per visit(which will be charged to your Black account). Most lounges will allow any number of guests, however where there are limits, details are shown on the website under each lounge description. You can also pre-book places in selected lounges for you and your guest for £5 per person supplement.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 3
+                    },
+                    {
+                        "heading": "Do I have to be flying to use a lounge?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, access to a lounge is granted only to Black Account customers and guests who have a passport and valid boarding pass for that day's travel.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 4
+                    },
+                    {
+                        "heading": "How do I know where the lounges are located within the airport?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Details can be found on each lounge page on the Membership Services website, in the DragonPass Premier app and by calling *[0345 266 8801](tel:03452668801)* (Minicom *[0370 600 0856](tel:03706000856)*). Lines are open 24 hours a day, 7 days a week. Please be advised calls are recorded for training and quality assurance purposes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 5
+                    },
+                    {
+                        "heading": "I'm calling from overseas, what telephone number should I use to contact Membership Services?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you require Airport Lounge assistance when you are overseas, you can reach us on (+44) 2392 668 814. Call charges apply). Lines are open 24 hours a day, 7 days a week. Please be advised calls are recorded for training and quality assurance purposes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 6
+                    }
+                ]
+            },
+            "sequenceNumber": 5
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "Black Account Benefit Terms",
+                                "fileType": "PDF",
+                                "fileSize": "4.63MB",
+                                "fileUrl": "http://personal.rbs.co.uk/content/dam/rbs_co_uk/currentaccounts/downloads/Reward/Black%20Account%20Benefit%20Terms.pdf",
+                                "sequenceNumber": 1
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)",
+                        "className": "link"
+                    }
+                ]
+            },
+            "sequenceNumber": 6
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/airport-lounge-access",
+            "name": "Airport Lounge Access"
+        }
+    ]
+}

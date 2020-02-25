@@ -1,0 +1,143 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Your benefits\n\nairport lounge access",
+                "buttonText": "Apply now",
+                "buttonURL": "section3",
+                "linkType": "sectionJump",
+                "imageUrl": "/asset/ulster_ri/gold/preferential-money.jpg"
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Avoid the hustle and bustle of airports - start your holiday in style",
+                            "content": "You need to apply for this benefit. As a ufirstgold member you can apply for a Priority Pass giving you access to over 700 airport lounges around the world for a small fee."
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's included?",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "As a ufirstgold account holder the annual fee - normally €99 - will be waived. For a fee of €24 per person per visit, you, your family, or friends travelling with you can enjoy the comfort of an executive lounge - even when you're flying economy.\n\n#### Airport Lounge Access offers:\n \n+ Access to over 700 VIP lounges in more then 120 countries and 400 cities worldwide\n+ Complimentary refreshments and snacks\n+ Excellent working facilities\n+ Privileged access to over 70 US Airport VIP Lounges\n+ Relaxing ambience - for you and your guests"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/ulster_ri/gold/ticket-booking-article.jpg",
+                "heading": "How to use the service",
+                "content": [
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Register Online",
+                            "href": "https://www.prioritypass.com/ulsterbank"
+                        }
+                    },
+                    {
+                        "type": "marked",
+                        "content": "__Register by phone:__ call ufirstgold Membership Services on\n\n *[1890 946 486](tel:1890946486)* to request an application form for your Priority Pass.\n\nPlease note: The Priority Pass per visit fee must be paid for using a nominated credit card (debit cards are not accepted).\n\nTo use your Priority Pass just present your card at the airport lounge. You'll be charged a fee - currently €24 per person per visit."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Can I open more than one packaged account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, please note that there may not be any additional advantage for you opening another account for the following: Travel Service, Airport Lounge Access, Tailored Personal Loan Rates, Tailored Mortgage Rates, Commission Free Travel Money, Worldwide Travel Insurance and Car Insurance discount (if you have more than two packaged accounts). You will also be charged an additional monthly membership fee on the new packaged account."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Are all the benefits available if I live abroad?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you are living abroad or plan on living abroad, it is important to note that some of the benefits attached to your account are only available when you are visiting the Republic of Ireland or when you are resident in the Republic of Ireland. For further information please call ufirstgold Membership Services on *[1890 946 486](tel:1890946486)* or from outside the Republic of Ireland call *[00 44 2392 676 738](tel:00442392676738)*."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How much does this service cost?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "It costs €24per person per visit. You must apply for this benefit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": ""
+                    },
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "ufirstgold User Guide",
+                                "fileType": "PDF",
+                                "fileSize": " 604KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/ufirst-gold-user-guide-ULST1664RI.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "className": "link",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+                    }
+                ]
+            }
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/airport-lounge-access",
+            "name": "Airport Lounge Access"
+        }
+    ]
+}

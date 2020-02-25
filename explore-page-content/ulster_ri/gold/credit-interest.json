@@ -1,0 +1,211 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Credit interest",
+                "buttonText": "",
+                "buttonUrl": "",
+                "imageUrl": "/asset/ulster_ri/gold/interest-free-ri-gold.jpg"
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "",
+                            "className": "section_without_heading",
+                            "content": "You are automatically entitled to this benefit"
+                        }
+                    },
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "",
+                            "className": "",
+                            "content": "Whether you have €1 or €10,000 in your ufirstgold account, credit interest will be added to your account every month."
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "What you should know",
+                            "content": "We work the credit interest out on the amount actually in your account at the close of business everyday (this does not include any cheques or other items not yet cleared). We add this interest to your account every month. Details of current interest rates are available from any branch of Ulster Bank or from our website www.ulsterbank.ie"
+                        }
+                    },
+                    {
+                        "type": "table",
+                        "content": {
+                            "heading": "Details on Credit Interest",
+                            "columnHeading": [],
+                            "rows": [
+                                {
+                                    "sequenceNumber": "1",
+                                    "style": {
+                                        "font-weight": "600"
+                                    },
+                                    "content": [
+                                        {
+                                            "sequenceNumber": "1",
+                                            "colspan": "2",
+                                            "content": ""
+                                        },
+                                        {
+                                            "sequenceNumber": "2",
+                                            "colspan": "2",
+                                            "content": "AER"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "sequenceNumber": "2",
+                                    "style": {
+                                        "font-weight": "600"
+                                    },
+                                    "content": [
+                                        {
+                                            "sequenceNumber": "1",
+                                            "colspan": "1",
+                                            "content": "Credit balance €"
+                                        },
+                                        {
+                                            "sequenceNumber": "2",
+                                            "colspan": "1",
+                                            "content": "Interest paid"
+                                        },
+                                        {
+                                            "sequenceNumber": "3",
+                                            "colspan": "1",
+                                            "content": "Gross (Variable)%"
+                                        },
+                                        {
+                                            "sequenceNumber": "4",
+                                            "colspan": "1",
+                                            "content": "AER (Variable)%"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "sequenceNumber": "3",
+                                    "style": {
+                                        "font-weight": "400"
+                                    },
+                                    "content": [
+                                        {
+                                            "sequenceNumber": "1",
+                                            "colspan": "1",
+                                            "content": "0+"
+                                        },
+                                        {
+                                            "sequenceNumber": "2",
+                                            "colspan": "1",
+                                            "content": "Monthly"
+                                        },
+                                        {
+                                            "sequenceNumber": "3",
+                                            "colspan": "1",
+                                            "content": "0.15"
+                                        },
+                                        {
+                                            "sequenceNumber": "4",
+                                            "colspan": "1",
+                                            "content": "0.15"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "",
+                            "content": "All returns are subject to Deposit Interest Retention Tax (DIRT). Details of current interest rates are available from any branch of Ulster Bank or from our website at www.ulsterbank.ie.\n\n__Gross__ means the interest rate you are paid before the deduction of income tax.\n\n __Annual Equivalent Rate (AER)__ - this is the notional rate used for interest bearing accounts, which illustrates the interest if paid and compounded each year. It helps you to compare the effective credit interest on the different accounts."
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Can I open more than one packaged account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, please note that there may not be any additional advantage for you opening another account for the following benefits: Travel Service, Tailored Personal Loan Rates, Tailored Mortgage Rates and the Car Insurance discount (if you have more than two packaged accounts). You will also be charged an additional monthly membership fee on the new packaged account."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Are all the benefits available if I live abroad?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you are living abroad or plan on living abroad, it is important to note that some of the benefits attached to your account are only available when you are visiting the Republic of Ireland or when you are resident in the Republic of Ireland. For further information please call ufirstgold Membership Services on *[1890 946 486](tel:1890946486)* or from outside the Republic of Ireland call *[00 44 2392 676 738](tel:00442392676738)*."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "What happens if I close or downgrade my ufirstgold account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you close or downgrade your ufirstgold account you will no longer be entitled to the benefits."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "ufirstgold User Guide",
+                                "fileType": "PDF",
+                                "fileSize": " 518KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/ufirst-gold-user-guide-ULST1664RI.pdf"
+                            },
+                            {
+                                "title": "A guide to personal accounts fees and interest",
+                                "fileType": "PDF",
+                                "fileSize": " 351KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/a-guide-to-personal-accounts-fees-and-interest-ULST1376RI.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "className": "link",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+                    }
+                ]
+            }
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/credit-interest",
+            "name": "Credit Interest"
+        }
+    ]
+}

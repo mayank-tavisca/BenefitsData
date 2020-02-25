@@ -1,0 +1,353 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "European Car\n\nBreakdown Cover",
+                "imageUrl": "/asset/rbs/black/car-breakdown-boy-on-stairs.jpg",
+                "linkType": "external"
+            },
+            "sequenceNumber": 1
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Whether you break down at home or on the roadside anywhere in Europe help is just a phone call away",
+                            "content": "Underwritten by U K Insurance Limited"
+                        },
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 2
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's included?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Roadside assistance",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Anywhere in the UK and Europe.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Recovery service",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "If Green Flag can't get your vehicle going, they'll take you and your vehicle to a destination of your choice or a suitable repairer.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Homecall",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Get help when your vehicle won't start at home.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "All your vehicles are covered",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Your policy covers any privately registered vehicle you travel in, anywhere in the UK.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "What you should know",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Costs at the garage or repairer",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "If Green Flag can't fix your vehicle at the roadside, you'll be liable for the costs of repair.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Age of car",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Your car must be less than 16 years old for car breakdown assistance in Europe.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Parts and/or materials",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "The cost of any parts and/or materials used to repair the vehicle is not covered.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    }
+                ]
+            },
+            "sequenceNumber": 3
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/rbs/black/greenflag.jpg",
+                "heading": "Broken down? Call Green Flag now.",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "Simply call Green Flag on\n\n*[0345 266 8801](tel:03452668801)*\n\n(Minicom *[0370 600 0856](tel:03706000856)*) if your vehicle breaks down or you need emergency assistance. Please be advised calls are recorded for training and quality assurance purposes.\n\nIf you break down outside the UK, you can call Green Flag on\n\n*[+44 (0) 125 230 8790](tel:+441252308790)*\n\nPlease be advised calls are recorded for training and quality assurance purposes. Charges may apply.\n\nLines are open 24/7, 365 days a year.",
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 4
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Is it the vehicle that's covered or me?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The cover is for all vehicles owned by you and registered at your home address. You are also covered in any privately registered vehicle you travel in, anywhere in the UK.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "If we have a joint bank account, are two vehicles covered?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The cover is for all vehicles owned by you and registered at your home address. You are also covered in any privately registered vehicle you travel in, anywhere in the UK.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "heading": "Which vehicle is covered?  I haven't provided a vehicle registration number?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The cover is for all vehicles owned by you and registered at your home address. You are also covered in any privately registered vehicle you travel in, anywhere in the UK.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 3
+                    },
+                    {
+                        "heading": "Do I have to register my vehicle with Green Flag?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "No. All the information you need is provided in your Black Account Benefit Terms.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 4
+                    },
+                    {
+                        "heading": "What is my membership number?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You don't need a membership number. When you call for assistance, Green Flag will know you have a Black Account.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 5
+                    },
+                    {
+                        "heading": "What details do I have to provide if my vehicle breaks down?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You'll be asked for your name and address, the vehicle details, the fault with the vehicle and your location.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 6
+                    },
+                    {
+                        "heading": "Do I have to show any identification to the mechanic who comes to assist me?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "No.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 7
+                    },
+                    {
+                        "heading": "How many callouts can I make?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Green Flag operates a fair use policy. You can use the service up to five times in any 12 month period. You may have to pay for any additional callouts in the same period.\n\nPlease note that if Green Flag arranges for temporary roadside repairs, you must carry out any permanent repairs that may be necessary as soon as possible. If you do not, and the same problem happens again, Green Flag may refuse service.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 8
+                    },
+                    {
+                        "heading": "How long will it take for Green Flag to attend my breakdown?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Green Flag guarantees to attend UK breakdowns within an hour.\n\nIf Green Flag keeps you waiting longer than an hour, you can claim £10 cash back by writing to Green Flag or completing a service questionnaire.\n\nCall out times in Europe may be longer.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 9
+                    },
+                    {
+                        "heading": "My family and friends sometimes drive my vehicle. What do they do if it breaks down?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Anyone driving or travelling in a vehicle you own that is registered at your home address, with your permission can ring for assistance by calling Green Flag on *[0345 266 8801](tel:03452668801)* (Minicom *[0370 600 0856](tel:03706000856)*). Lines are open 24/7, 365 days a year. Please be advised calls are recorded for training and quality assurance purposes.\n\nThey will be asked to provide the name and address of the customer with the Black Account.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 10
+                    },
+                    {
+                        "heading": "What is the definition of a vehicle?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Vehicle - Any vehicle you travel in, as long as it meets the requirements shown below.\n\n+ It’s a car, light van or motorbike.\n+ It’s privately registered in the UK.\n+ It must not contain more people than the manual recommends. And never more than nine including the driver.\n+ It can’t weigh more than 3,500 kg. This includes any load.\n+ It can’t be more than 7 metres long (apart from a tow bar or coupling device), 3 metres tall or 2.55 metres wide.\n+ It’s been serviced, looked after and used as recommended by the manufacturer.\n+ It meets all legal requirements and driving laws that apply. For example it may need to be taxed and have a valid MOT certificate. We can check these details when you ask us for help.\n\nWe’ll also cover:\n\n– Any vehicle being driven by someone with your permission that is owned by you or that is leased to you under a Personal Leasing or Personal Contract Hire agreement as long as it’s kept and registered at home.\n\n– Any standard make of caravan or trailer that you are towing when it breaks down. It must be connected using an ordinary 50mm tow-ball and it can’t be bigger than the sizes above. When it’s loaded it must not weigh more than the towing vehicle weighs when it is empty.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 11
+                    },
+                    {
+                        "heading": "Will I receive any documents from Green Flag?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "No.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 12
+                    }
+                ]
+            },
+            "sequenceNumber": 5
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "Black Account Benefit Terms",
+                                "fileType": "PDF",
+                                "fileSize": "4.63MB",
+                                "fileUrl": "http://personal.rbs.co.uk/content/dam/rbs_co_uk/currentaccounts/downloads/Reward/Black%20Account%20Benefit%20Terms.pdf",
+                                "sequenceNumber": 1
+                            },
+                            {
+                                "title": "Black Account Insurance Product Information",
+                                "fileType": "PDF",
+                                "fileSize": "669KB",
+                                "fileUrl": "http://www.rbs.co.uk/BlackAccountIPID",
+                                "sequenceNumber": 2
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)",
+                        "className": "link"
+                    }
+                ]
+            },
+            "sequenceNumber": 6
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/airport-lounge-access",
+            "name": "Car Breakdown Cover"
+        }
+    ]
+}

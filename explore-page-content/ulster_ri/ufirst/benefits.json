@@ -1,0 +1,93 @@
+{
+  "banner": {
+    "type": "HeroBanner",
+    "content": {
+      "imageUrl": "/asset/ulster_ri/uFirst/Online_breakfast_02_976x335.jpg",
+      "headingText": "Your ufirst\n \naccount benefits",
+      "buttonText": "",
+      "showImageInAllDevices": "true",
+      "bannerNote": "Please note: Your ufirst account offers European Travel Insurance. In order to be covered for this benefit you will need to register directly with the insurance provider. Select the Explore button below to find out more information on how you can register."
+    }
+  },
+  "section": [
+    {
+      "type": "marked",
+      "content": {
+        "heading": "Enjoy the full range of banking, protection and lifestyle benefits",
+        "content": "With a ufirst account from Ulster Bank you could enjoy 25% cash back on up to 4 tickets for events, travel discounts, an interest free arranged overdraft of up to €500 and lots more. The monthly account fee for the ufirst account is €10. The ufirst account also has additional insurance and protection benefits at no extra cost. * You need to register or apply for some benefits."
+      }
+    }
+  ],
+  "benefit": [
+    {
+      "title": "European Travel Insurance",
+      "icon": "icon-umbrella",
+      "content": "European cover for you and your family- perfect for your summer holiday and more!",
+      "buttonText": "",
+      "path": "/explore/european-travel-insurance"
+    },
+    {
+      "title": "Travel Service",
+      "icon": "icon-plane",
+      "content": "10% discount off weekend breaks, hotels, holidays, car hire and overseas travel.",
+      "buttonText": "",
+      "path": "/explore/travel-service"
+    },
+    {
+      "title": "Ticket Booking",
+      "icon": "icon-ticket",
+      "content": "Enjoy 25% cash back off event tickets throughout the Republic of Ireland, Northern Ireland and the rest of the UK.",
+      "buttonText": "Use benefit",
+      "path": "/explore/ticket-booking-service"
+    },
+    {
+      "title": "Interest free arranged overdraft",
+      "icon": "icon-credit-card",
+      "content": "You can apply for an interest free overdraft of up to €500 **(0% variable).**",
+      "buttonText": "",
+      "path": "/explore/interest-free-arranged-overdraft-buffer"
+    },
+    {
+      "title": "Tailored rates on personal loans",
+      "icon": "icon-calc-alt",
+      "content": "You can enjoy a 1% discount on our standard fixed rates when you apply for an Ulster Bank loan.",
+      "buttonText": "",
+      "path": "/explore/tailored-rates-on-personal-loans"
+    },
+    {
+      "title": "Tailored rates on personal mortgages",
+      "icon": "icon-house-tick",
+      "content": "Apply for an Ulster Bank mortgage and you can enjoy tailored variable mortgage rates.",
+      "buttonText": "",
+      "path": "/explore/tailored-mortgage-rates"
+    },
+    {
+      "title": "Interest when your account is in credit",
+      "icon": "icon-credit-card",
+      "content": "Whether you have €1 or €10,000 in your ufirst Private account, credit interest will be added to your account every month.",
+      "buttonText": "",
+      "path": "/explore/credit-interest"
+    },
+    {
+      "title": "Ulster Bank Car Insurance discount",
+      "icon": "icon-car",
+      "content": "You are eligible for a 10% discount off your first year’s Ulster Bank Car Insurance discount premium.",
+      "buttonText": "",
+      "path": "/explore/car-insurance"
+    }
+  ],
+  "benefitBlocks": [
+    {
+      "buttonText": "Manage your account",
+      "buttonUrl": "/account/manage-account",
+      "heading": "Manage your sign in details",
+      "blockText": "This is where you can change your personal details or password."
+    },
+    {
+      "buttonText": "View benefit usage",
+      "buttonUrl": "/account/recent-benefit-usage",
+      "heading": "View your past interactions with your benefits",
+      "blockText": ""
+    }
+  ]
+}

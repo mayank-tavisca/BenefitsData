@@ -1,0 +1,246 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Tastecard\n\nMembership",
+                "buttonText": "Book a restaurant now",
+                "buttonURL": "http://www.tastecard.co.uk/natwest/",
+                "imageUrl": "/asset/natwest/silver/tastecard-membership-silver.jpg",
+                "linkType": "external"
+            },
+            "sequenceNumber": 1
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Get tucked in to discounted dining at thousands of restaurants across the UK",
+                            "content": "Your tastecard gives you 2 for 1 or 50% off the food bill at thousands of restaurants in the UK and Ireland. You should have received your tastecard in the mail up to five working days after you opened your Silver Account."
+                        },
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 2
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What you should know",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Exclusions",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Some restaurants may exclude tastecard use on Fridays and Saturdays and on special occasions e.g. Mother's Day, Father's Day, Valentine's Day and the run up to the Christmas period. Side dishes and extras are not included. Visit [www.tastecard.co.uk/natwest](http://www.tastecard.co.uk/natwest) to find out more.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "50% off",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Where restaurants offer 50% off, they may limit the number of people the offer applies to.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "2 for 1 meals",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "2 meals for the price of 1 is available for two people only and is across all courses ordered; the cheapest or equivalent dish of each course being free. Side dishes and extras are not included.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Prior booking",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Some restaurants require the customer to book prior to arriving (not all do).",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 3
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/natwest/silver/tastecard.jpg",
+                "heading": "Search restaurants and make your booking online",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "From African to Cuban, Italian to Spanish, there are thousands of UK restaurants to choose from.",
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Search and book a restaurant",
+                            "href": "http://www.tastecard.co.uk/natwest"
+                        },
+                        "sequenceNumber": 2
+                    }
+                ]
+            },
+            "sequenceNumber": 4
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "What offers are available on the tastecard?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "There are two offers available, either; \"50% off the total food bill\", or \"2 meals for the price of 1\". You will need to check the tastecard website to check which discount the restaurant you wish to visit offers.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "Do I always need to make a booking?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Some restaurants require you to make a booking in advance, we recommend you always check the tastecard website to see if the restaurant you wish to attend has a telephone icon. Other restaurants allow you to turn up and use the card without booking.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "heading": "How do I make a booking?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can do this by phoning the restaurant directly on the phone number provided on the tastecard website or by booking online via the tastecard website where the facility is available.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 3
+                    },
+                    {
+                        "heading": "Can I give my card to someone else to use?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "No, the cards are strictly non-transferable. They are printed with your name on it so cannot be gifted or loaned to friends or family members.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 4
+                    },
+                    {
+                        "heading": "When does my card expire?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Your card is valid for one year; you will automatically be sent a new card when your current card is due to expire.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 5
+                    },
+                    {
+                        "heading": "I'd like to make a complaint",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can make a complaint by contacting tastecard on 0345 601 5219. (Minicom 0370 600 0856). Lines are open 9am to 5pm Monday to Friday (closed weekends and bank holidays). Please be advised calls are recorded for training and quality assurance purposes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 6
+                    },
+                    {
+                        "heading": "I've lost my card",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you lose your card you can ring 0345 601 5219, (Minicom 0370 600 0856) to order a replacement. You will receive the first replacement at no additional cost but thereafter you will be required to pay £15 per card. Lines are open 9am to 5pm Monday to Friday (closed weekends and bank holidays). Please be advised calls are recorded for training and quality assurance purposes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 7
+                    }
+                ]
+            },
+            "sequenceNumber": 5
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "Silver Account Benefit Terms",
+                                "fileType": "PDF",
+                                "fileSize": " 10.2MB",
+                                "fileUrl": "http://personal.natwest.com/content/dam/natwest_com/currentaccounts/downloads/Reward/Silver%20Benefit%20Terms.pdf",
+                                "sequenceNumber": 1
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)",
+                        "className": "link"
+                    }
+                ]
+            },
+            "sequenceNumber": 6
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/tastecard-membership",
+            "name": "Tastecard Membership"
+        }
+    ]
+}

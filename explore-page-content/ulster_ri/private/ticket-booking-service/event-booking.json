@@ -1,0 +1,439 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Event\n\nBooking",
+                "buttonText": "",
+                "imageUrl": "/asset/ulster_ri/private/ticket-booking.jpg",
+                "linkType": "external"
+            }
+        },
+        {
+            "type": "EventBookingForm",
+            "metaData": [
+                {
+                    "fieldLabel": "First name:",
+                    "fieldType": "input",
+                    "fieldInfo": "",
+                    "name": "FirstName",
+                    "fields": {
+                        "type": "text",
+                        "id": "FirstName",
+                        "maxLength": "",
+                        "autoPopulatedFieldName": "firstName",
+                        "readOnly": true
+                    }
+                },
+                {
+                    "fieldLabel": "Last name:",
+                    "fieldType": "input",
+                    "fieldInfo": "",
+                    "name": "LastName",
+                    "fields": {
+                        "type": "text",
+                        "id": "LastName",
+                        "maxLength": "",
+                        "autoPopulatedFieldName": "lastName",
+                        "readOnly": true
+                    }
+                },
+                {
+                    "fieldLabel": "House number/ name *",
+                    "fieldType": "input",
+                    "fieldInfo": "",
+                    "name": "HouseNumberName",
+                    "fields": {
+                        "type": "text",
+                        "id": "HouseNumberName",
+                        "maxLength": "",
+                        "autoPopulatedFieldName": "",
+                        "readOnly": false
+                    }
+                },
+                {
+                    "fieldLabel": "Postcode *",
+                    "fieldType": "input",
+                    "fieldInfo": "",
+                    "name": "PostCode",
+                    "fields": {
+                        "type": "text",
+                        "id": "PostCode",
+                        "maxLength": "10",
+                        "autoPopulatedFieldName": "",
+                        "readOnly": false
+                    }
+                },
+                {
+                    "fieldLabel": "Home telephone number *",
+                    "fieldType": "input",
+                    "fieldInfo": "(include STD code without spaces)",
+                    "name": "HomeTelephoneNumber",
+                    "fields": {
+                        "type": "text",
+                        "id": "HomeTelephoneNumber",
+                        "maxLength": "",
+                        "autoPopulatedFieldName": "",
+                        "readOnly": false
+                    }
+                },
+                {
+                    "fieldLabel": "Daytime telephone number",
+                    "fieldType": "input",
+                    "fieldInfo": "(include STD code without spaces)",
+                    "name": "DaytimeTelephoneNumber",
+                    "fields": {
+                        "type": "text",
+                        "id": "DaytimeTelephoneNumber",
+                        "maxLength": "",
+                        "autoPopulatedFieldName": "",
+                        "readOnly": false
+                    }
+                },
+                {
+                    "fieldLabel": "Mobile phone number",
+                    "fieldType": "input",
+                    "fieldInfo": "(No Spaces)",
+                    "name": "MobilePhoneNumber",
+                    "fields": {
+                        "type": "text",
+                        "id": "MobilePhoneNumber",
+                        "maxLength": "",
+                        "autoPopulatedFieldName": "",
+                        "readOnly": false
+                    }
+                },
+                {
+                    "fieldLabel": "Name of event *",
+                    "fieldType": "input",
+                    "fieldInfo": "",
+                    "name": "NameOfEvent",
+                    "fields": {
+                        "type": "text",
+                        "id": "NameOfEvent",
+                        "maxLength": "",
+                        "autoPopulatedFieldName": "",
+                        "readOnly": false
+                    }
+                },
+                {
+                    "fieldLabel": "Date of event 1st choice *",
+                    "fieldType": "input",
+                    "fieldInfo": "(DD/MM/YYYY)",
+                    "name": "DateOfEventFirst",
+                    "fields": {
+                        "type": "text",
+                        "id": "DateOfEventFirst",
+                        "maxLength": "",
+                        "autoPopulatedFieldName": "",
+                        "readOnly": false
+                    }
+                },
+                {
+                    "fieldLabel": "Date of event 2nd choice",
+                    "fieldType": "input",
+                    "fieldInfo": "(DD/MM/YYYY)",
+                    "name": "DateOfEventSecond",
+                    "fields": {
+                        "type": "text",
+                        "id": "DateOfEventSecond",
+                        "maxLength": "",
+                        "autoPopulatedFieldName": "",
+                        "readOnly": false
+                    }
+                },
+                {
+                    "fieldLabel": "Time of event 1st choice",
+                    "fieldType": "select",
+                    "fieldInfo": "(HH:DD)",
+                    "name": "TimeOfEventChoice1",
+                    "fields": [
+                        {
+                            "type": "select",
+                            "name": "TimeOfEventChoiceHours1",
+                            "id": "TimeOfEventChoiceHours1",
+                            "maxLength": "",
+                            "autoPopulatedFieldName": "",
+                            "readOnly": false,
+                            "options": {
+                                "range": [
+                                    0,
+                                    23,
+                                    1
+                                ]
+                            }
+                        },
+                        {
+                            "type": "select",
+                            "name": "TimeOfEventChoiceMinutes1",
+                            "id": "TimeOfEventChoiceMinutes1",
+                            "maxLength": "",
+                            "autoPopulatedFieldName": "",
+                            "readOnly": false,
+                            "options": {
+                                "range": [
+                                    0,
+                                    59,
+                                    1
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "fieldLabel": "Time of event 2nd choice",
+                    "fieldType": "select",
+                    "fieldInfo": "(HH:DD)",
+                    "name": "TimeOfEventChoice2",
+                    "fields": [
+                        {
+                            "type": "select",
+                            "name": "TimeOfEventChoiceHours2",
+                            "id": "TimeOfEventChoiceHours2",
+                            "maxLength": "",
+                            "autoPopulatedFieldName": "",
+                            "readOnly": false,
+                            "options": {
+                                "range": [
+                                    0,
+                                    23,
+                                    1
+                                ]
+                            }
+                        },
+                        {
+                            "type": "select",
+                            "name": "TimeOfEventChoiceMinutes2",
+                            "id": "TimeOfEventChoiceMinutes2",
+                            "maxLength": "",
+                            "autoPopulatedFieldName": "",
+                            "readOnly": false,
+                            "options": {
+                                "range": [
+                                    0,
+                                    59,
+                                    1
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "fieldLabel": "Name of venue *",
+                    "fieldType": "input",
+                    "fieldInfo": "",
+                    "name": "NameOfVenue",
+                    "fields": {
+                        "type": "text",
+                        "id": "NameOfVenue",
+                        "maxLength": "",
+                        "autoPopulatedFieldName": "",
+                        "readOnly": false
+                    }
+                },
+                {
+                    "fieldLabel": "City of venue *",
+                    "fieldType": "input",
+                    "fieldInfo": "",
+                    "name": "CityOfVenue",
+                    "fields": {
+                        "type": "text",
+                        "id": "CityOfVenue",
+                        "maxLength": "",
+                        "autoPopulatedFieldName": "",
+                        "readOnly": false
+                    }
+                },
+                {
+                    "fieldLabel": "Number of tickets *",
+                    "fieldType": "input",
+                    "fieldInfo": "",
+                    "name": "NumberOfTickets",
+                    "fields": {
+                        "type": "text",
+                        "id": "NumberOfTickets",
+                        "maxLength": "2",
+                        "autoPopulatedFieldName": "",
+                        "readOnly": false
+                    }
+                },
+                {
+                    "fieldLabel": "Seating choice 1st *",
+                    "fieldType": "select",
+                    "fieldInfo": "",
+                    "name": "SeatingChoiceFirst",
+                    "fields": [
+                        {
+                            "type": "select",
+                            "name": "SeatingChoiceFirst",
+                            "id": "SeatingChoiceFirst",
+                            "maxLength": "",
+                            "autoPopulatedFieldName": "",
+                            "readOnly": false,
+                            "options": [
+                                {
+                                    "name": "Select",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "Circle",
+                                    "value": "Circle"
+                                },
+                                {
+                                    "name": "Dress Circle",
+                                    "value": "Dress Circle"
+                                },
+                                {
+                                    "name": "Stalls",
+                                    "value": "Stalls"
+                                },
+                                {
+                                    "name": "Day Ticket",
+                                    "value": "Day Ticket"
+                                },
+                                {
+                                    "name": "Weekend with Camping",
+                                    "value": "Weekend with Camping"
+                                },
+                                {
+                                    "name": "Weekend without Camping",
+                                    "value": "Weekend without Camping"
+                                },
+                                {
+                                    "name": "General Admission (Concert)",
+                                    "value": "General Admission (Concert)"
+                                },
+                                {
+                                    "name": "Best Available",
+                                    "value": "Best Available"
+                                },
+                                {
+                                    "name": "Other",
+                                    "value": "Other"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "fieldLabel": "Seating choice 2nd",
+                    "fieldType": "select",
+                    "fieldInfo": "",
+                    "name": "SeatingChoiceSecond",
+                    "fields": [
+                        {
+                            "type": "select",
+                            "name": "SeatingChoiceSecond",
+                            "id": "SeatingChoiceSecond",
+                            "maxLength": "",
+                            "autoPopulatedFieldName": "",
+                            "readOnly": false,
+                            "options": [
+                                {
+                                    "name": "Select",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "Circle",
+                                    "value": "Circle"
+                                },
+                                {
+                                    "name": "Dress Circle",
+                                    "value": "Dress Circle"
+                                },
+                                {
+                                    "name": "Stalls",
+                                    "value": "Stalls"
+                                },
+                                {
+                                    "name": "Day Ticket",
+                                    "value": "Day Ticket"
+                                },
+                                {
+                                    "name": "Weekend with Camping",
+                                    "value": "Weekend with Camping"
+                                },
+                                {
+                                    "name": "Weekend without Camping",
+                                    "value": "Weekend without Camping"
+                                },
+                                {
+                                    "name": "General Admission (Concert)",
+                                    "value": "General Admission (Concert)"
+                                },
+                                {
+                                    "name": "Best Available",
+                                    "value": "Best Available"
+                                },
+                                {
+                                    "name": "Other",
+                                    "value": "Other"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "fieldLabel": "Concessions",
+                    "fieldType": "select",
+                    "fieldInfo": "",
+                    "name": "Concessions",
+                    "fields": [
+                        {
+                            "type": "select",
+                            "name": "Concessions",
+                            "id": "Concessions",
+                            "maxLength": "",
+                            "autoPopulatedFieldName": "",
+                            "readOnly": false,
+                            "options": [
+                                {
+                                    "name": "Select",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "Yes",
+                                    "value": "Yes"
+                                },
+                                {
+                                    "name": "No",
+                                    "value": "No"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "fieldLabel": "Special requirements",
+                    "fieldType": "input",
+                    "fieldInfo": "(Please only enter information relating to your ticket enquiry)",
+                    "name": "SpecialRequirements",
+                    "fields": {
+                        "type": "text",
+                        "id": "SpecialRequirements",
+                        "maxLength": "",
+                        "autoPopulatedFieldName": "",
+                        "readOnly": false
+                    }
+                },
+                {
+                    "fieldType": "button",
+                    "name": "SubmitButton",
+                    "fields": {
+                        "buttonText": "Submit"
+                    }
+                }
+            ]
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/ticket-booking-service",
+            "name": "Ticket Booking service"
+        },
+        {
+            "path": "",
+            "name": "Event Booking"
+        }
+    ]
+}

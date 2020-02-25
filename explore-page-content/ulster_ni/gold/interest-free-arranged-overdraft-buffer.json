@@ -1,0 +1,169 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Interest free arranged\n\noverdraft buffer",
+                "buttonText": "You can apply for this benefit",
+                "imageUrl": "/asset/ulster_ni/gold/interest-free.jpg",
+                "linkType": "external"
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "ufirstgold offers access to an interest-free arranged overdraft buffer of up to £500.",
+                            "content": ""
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What you should know",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "This is an interest-free arranged overdraft buffer which every ufirstgold member can apply for. Provided your arranged overdraft balance remains below the interest-free arranged overdraft buffer you will not be charged arranged overdraft interest. If your arranged overdraft balance exceeds the interest-free arranged overdraft buffer you will be charged arranged overdraft interest on the full arranged overdraft balance. Lending criteria, terms and conditions apply. Credit facilities are available to over 18s only. You must repay the overdraft on demand."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "Overdrafts are repayable on demand. Your debit balance should not exceed your arranged overdraft limit. If your account overruns without formally agreeing an arranged overdraft, or you exceed your arranged overdraft limit, this is called an Unarranged Overdraft. When this happens, you will incur Unarranged Overdraft interest as well as the Maintenance Charge. You may also have to pay the Paid Referral Fee and the Guaranteed Card Payment Fee. For full details of the interest and charges please see our [A Guide to Personal Account Fees and Interest](http://www.ulsterbank.co.uk/documents/ni/Guide_to_Personal_Account_Fees_Interest.pdf) brochure."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "If you close or downgrade your ufirstgold account you will no longer be entitled to the benefits."
+                    },
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "ufirstgold User Guide",
+                                "fileType": "PDF",
+                                "fileSize": " 518KB",
+                                "fileUrl": "http://www.ulsterbank.co.uk/ufirstgolduserguide"
+                            },
+                            {
+                                "title": "A guide to personal accounts fees and interest",
+                                "fileType": "PDF",
+                                "fileSize": " 351KB",
+                                "fileUrl": "http://www.ulsterbank.co.uk/documents/ni/Guide_to_Personal_Account_Fees_Interest.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "className": "link",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/ulster_ni/gold/Telephone.jpg",
+                "heading": "Apply for an arranged overdraft",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "You can apply for an arranged overdraft online, over the phone or your local Ulster Bank branch.\n\n- [Apply Online](http://www.ulsterbank.co.uk/ni/personal/daily-banking/current-accounts/useful-information/overdrafts.ashx#tabbed-nav=tab1)\n\n- Apply over the phone: Call\n\n*[0800 046 6486](tel:08000466486)*\n\nLines are open 8:30am to 7:30pm Monday to Friday and 9am to 2pm on Saturdays. Please be advised calls are recorded for training and quality assurance purposes.\n\n__[Find your local Ulster Bank branch](http://locations.ulsterbank.com/ulster/locator/index.php/northern-ireland/)__"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "What happens if I exceed my interest-free arranged overdraft buffer?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you have an arranged overdraft we will charge 0% arranged overdraft interest when you stay within your arranged overdraft limit and under the interest-free arrange overdraft buffer. If your arranged overdraft balance exceeds the interest-free arranged overdraft buffer on your account, then the entire arranged overdraft balance will be charged at the applicable higher arranged overdraft interest rate.\n\nOverdrafts are repayable on demand. Your debit balance should not exceed your arranged overdraft limit. If your account overruns without formally agreeing an arranged overdraft, or you exceed your arranged overdraft limit, this is called an Unarranged Overdraft. When this happens, you will incur Unarranged Overdraft interest as well as the Maintenance Charge. You may also have to pay the Paid Referral Fee and the Guaranteed Card Payment Fee. For full details of the interest and charges please see our [Guide to Personal Account Fees and Interest](http://www.ulsterbank.co.uk/documents/ni/Guide_to_Personal_Account_Fees_Interest.pdf) brochure."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "What happens if I close or downgrade my ufirstgold account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you close or downgrade your ufirstgold, then you will no longer be entitled to this benefit and you will be charged interest on any amount your account is overdrawn by."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Have you additional packaged accounts with Ulster Bank?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, you may not be entitled to any extra benefits by holding multiple accounts. You will also be charged an additional monthly account fee on the new packaged account."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Are you living outside Northern Ireland or the rest of the UK?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you are living outside Northern Ireland or the rest of the UK or plan on living outside Northern Ireland or the rest of the UK, it is important to note that some of the benefits attached to your account are only available when you are visiting Northern Ireland or the rest of the UK or when you are resident in Northern Ireland or the rest of the UK. For further information please call ufirstgold Membership Services on *[0370 600 0661](tel:03706000661)* or *[0044 2392 676 740](tel:00442392676740)* if calling from outside the UK."
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/interest-free-arranged-overdraft-buffer",
+            "name": "Interest Free Arranged Overdraft"
+        }
+    ]
+}

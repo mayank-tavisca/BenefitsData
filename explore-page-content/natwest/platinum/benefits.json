@@ -1,0 +1,77 @@
+{
+  "banner": {
+    "type": "HeroBanner",
+    "content": {
+      "imageUrl": "/asset/natwest/platinum/home-page-platinum.jpg",
+      "headingText": "Your Platinum\n\nAccount Benefits",
+      "buttonText": ""
+    }
+  },
+
+  "benefit": [
+    {
+      "title": "Travel Insurance",
+      "icon": "icon-credit-card",
+      "content": "Enjoy Worldwide travel cover for up to 31 days including winter sports.",
+      "buttonText": "Use benefit",
+      "path": "/explore/worldwide-travel-insurance"
+    },
+    {
+      "title": "Mobile Phone Insurance",
+      "icon": "icon-mobile",
+      "content": "Protection against loss, theft, damage or breakdown of your mobile phone.",
+      "buttonText": "Use benefit",
+      "path": "/explore/mobile-phone-insurance"
+    },
+    {
+      "title": "Cinema Discount",
+      "icon": "icon-cinema",
+      "content": "Great cinema prices with your Platinum account. Up to 40% off at over 250 cinemas nationwide. Any day, any time.",
+      "buttonText": "Use benefit",
+      "path": "/explore/cinema-discount"
+    },
+    {
+      "title": "Travel Service",
+      "icon": "icon-plane",
+      "content": "Saving you money with discounted holidays, hotels, car hire, parking and more.",
+      "buttonText": "Use benefit",
+      "path": "/explore/travel-service"
+    },
+
+    {
+      "title": "Car Breakdown Cover",
+      "icon": "icon-car",
+      "content": "With UK car breakdown cover, help is just a phone call away.",
+      "path": "/explore/car-breakdown-cover"
+    },
+    {
+      "title": "tastecard Membership",
+      "icon": "icon-dine",
+      "content": "With this benefit, you get to tuck in to discounted dining at thousands of restaurants across the UK.",
+      "buttonText": "Use benefit",
+      "path": "/explore/tastecard-membership"
+    },
+
+    {
+      "title": "Preferential Travel Money Rates",
+      "icon": "icon-pound-transfer",
+      "content": "Preferential rates on currency delivered to your home at no extra charge.",
+      "buttonText": "Use benefit",
+      "path": "/explore/preferential-travel-money-rates"
+    }
+  ],
+  "benefitBlocks": [
+    {
+      "buttonText": "Manage your account",
+      "buttonUrl": "/account/manage-account",
+      "heading": "Manage your sign in details",
+      "blockText": "This is where you can change your personal details or password."
+    },
+    {
+      "buttonText": "View benefit usage",
+      "buttonUrl": "/account/recent-benefit-usage",
+      "heading": "View your past interactions with your benefits",
+      "blockText": ""
+    }
+  ]
+}

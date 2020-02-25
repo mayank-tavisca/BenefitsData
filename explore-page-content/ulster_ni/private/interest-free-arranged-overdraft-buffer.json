@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "type": "HeroBanner",
+      "metaData": {
+        "headingText": "Interest free arranged\n\noverdraft buffer",
+        "buttonText": "You can apply for this benefit",
+        "linkType": "sectionJump",
+        "buttonURL": "section3",
+        "imageUrl": "/asset/ulster_ni/private/interest-free.jpg"
+      }
+    },
+    {
+      "type": "Section",
+      "metaData": {
+        "content": [
+          {
+            "type": "marked",
+            "content": {
+              "heading": "Ufirst Premier offers access to an interest-free arranged overdraft buffer of up to £500.",
+              "content": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "MultiSection",
+      "metaData": {
+        "sections": [
+          {
+            "heading": "What you should know",
+            "content": [
+              {
+                "orientation": "row",
+                "content": [
+                  {
+                    "heading": "",
+                    "content": [
+                      {
+                        "type": "marked",
+                        "content": "This is an interest-free arranged overdraft buffer which every ufirst Private member can apply for. Provided your arranged overdraft balance remains below the interest-free arranged overdraft buffer you will not be charged arranged overdraft interest. If your arranged overdraft balance exceeds the interest-free arranged overdraft buffer you will be charged arranged overdraft interest on the full arranged overdraft balance. Lending criteria, terms and conditions apply. Credit facilities are available to over 18s only. You must repay the overdraft on demand."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "heading": "",
+            "content": [
+              {
+                "orientation": "row",
+                "content": [
+                  {
+                    "heading": "",
+                    "content": [
+                      {
+                        "type": "marked",
+                        "content": "Overdrafts are repayable on demand. Your debit balance should not exceed your arranged overdraft limit. If your account overruns without formally agreeing an arranged overdraft, or you exceed your arranged overdraft limit, this is called an Unarranged Overdraft. When this happens, you will incur Unarranged Overdraft interest as well as the Maintenance Charge. You may also have to pay the Paid Referral Fee and the Guaranteed Card Payment Fee. For full details of the interest and charges please see our [A Guide to Personal Account Fees and Interest brochure](http://www.ulsterbank.co.uk/documents/ni/Guide_to_Personal_Account_Fees_Interest.pdf). Please contact the Private Banking Support team for details."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "AdditionalInfo",
+      "metaData": {
+        "heading": "Important additional information",
+        "content": [
+          {
+            "type": "file",
+            "content": [
+              {
+                "title": "Private Banking User Guide",
+                "fileType": "PDF",
+                "fileSize": " 603KB",
+                "fileUrl": "http://www.ulsterbank.co.uk/ufirstprivateuserguide"
+              },
+              {
+                "title": "A guide to personal accounts fees and interest",
+                "fileType": "PDF",
+                "fileSize": " 309KB",
+                "fileUrl": "http://www.ulsterbank.co.uk/documents/ni/Guide_to_Personal_Account_Fees_Interest.pdf"
+              }
+            ]
+          },
+          {
+            "type": "marked",
+            "className": "link",
+            "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ImageBanner",
+      "metaData": {
+        "imageUrl": "/asset/ulster_ni/private/intrest-free-article.jpg",
+        "heading": "Want to apply for an arranged overdraft?",
+        "content": [
+          {
+            "type": "marked",
+            "content": "To apply for an interest free arranged overdraft, please contact your Relationship Manager"
+          }
+        ]
+      }
+    },
+    {
+      "type": "AccordionComponent",
+      "metaData": {
+        "heading": "Here's what other people are asking",
+        "content": [
+          {
+            "heading": "What happens if I exceed my interest-free arranged overdraft buffer?",
+            "content": [
+              {
+                "type": "marked",
+                "content": "If you have an arranged overdraft we will charge 0% arranged overdraft interest when you stay within your arranged overdraft limit and under the interest-free arrange overdraft buffer. If your arranged overdraft balance exceeds the interest-free arranged overdraft buffer on your account, then the entire arranged overdraft balance will be charged at the applicable higher arranged overdraft interest rate.\n\nOverdrafts are repayable on demand. Your debit balance should not exceed your arranged overdraft limit. If your account overruns without formally agreeing an arranged overdraft, or you exceed your arranged overdraft limit, this is called an Unarranged Overdraft. When this happens, you will incur Unarranged Overdraft interest as well as the Maintenance Charge. You may also have to pay the Paid Referral Fee and the Guaranteed Card Payment Fee. For full details of the interest and charges please see our [Guide to Personal Account Fees and Interest](http://www.ulsterbank.co.uk/documents/ni/Guide_to_Personal_Account_Fees_Interest.pdf) brochure."
+              }
+            ]
+          },
+          {
+            "heading": "What happens if I close or downgrade my ufirst Private account?",
+            "content": [
+              {
+                "type": "marked",
+                "content": "If you close or downgrade your ufirst Private account, then you will no longer be entitled to this benefit and you will be charged interest on any amount your account is overdrawn by."
+              }
+            ]
+          },
+          {
+            "heading": "Have you additional packaged accounts with Ulster Bank?",
+            "content": [
+              {
+                "type": "marked",
+                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, you may not be entitled to any extra benefits by holding multiple accounts You will also be charged an additional monthly account fee on the new packaged account."
+              }
+            ]
+          },
+          {
+            "heading": "Are you living outside Northern Ireland or the rest of the UK?",
+            "content": [
+              {
+                "type": "marked",
+                "content": "If you are living outside Northern Ireland or the rest of the UK or plan on living outside Northern Ireland or the rest of the UK, it is important to note that some of the benefits attached to your account are only available when you are visiting Northern Ireland or the rest of the UK or when you are resident in Northern Ireland or the rest of the UK. For further information please call ufirst Private Membership Services on *[0345 607 2538](03456072538)* or from outside the UK call *[00 44 2392 676 573](00442392676573)*."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "breadCrumb": [
+    {
+      "path": "/explore/interest-free-arranged-overdraft-buffer",
+      "name": "Interest Free Arranged Overdraft"
+    }
+  ]
+}

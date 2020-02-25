@@ -1,0 +1,395 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Mobile phone\n\ninsurance",
+                "buttonText": "",
+                "imageUrl": "/asset/ulster_ni/private/mobile-insurance.jpg",
+                "linkType": "external"
+            },
+            "sequenceNumber": 1
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Incidents occurring on 30th September or earlier",
+                            "href": "#"
+                        },
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Incidents occurring on 1st October or later",
+                            "href": "#"
+                        },
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Just one of the benefits of your ufirst Private Account",
+                            "content": "How would you get by without your mobile phone? With your ufirst Private Mobile Phone Insurance, your phone is covered for accidental damage, theft, loss and breakdown (once your manufacturer's warranty has expired). Cover applies worldwide.\n\nWe’ll settle claims with a replacement phone. Our replacement phones are refurbished using genuine manufacturer parts and will be in an \"as new\" condition.\n\nYou’re automatically covered but if your phone is registered, it‘ll make it quicker and easier if you need to make a claim.\n\nPlease remember your mobile phone insurance covers the phone you use on a daily basis and if applicable, the phones used on a daily basis by your partner (who lives with you in a domestic relationship, whether married or cohabiting) and/or your children under 18 years of age who live at home with you (under 23 if still in full time education and living with you outside of term time).\n\nThere is no cover for phones owned by your employer.\n\nMobile phone insurance is underwritten by American International Group UK Limited (AIG) and provided by Brightstar Insurance Services, B.V. (UK Branch)."
+                        },
+                        "sequenceNumber": 3
+                    }
+                ]
+            },
+            "sequenceNumber": 2
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's covered?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Most mobile phones are covered",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "To be covered the phone has to: \n+ have a screen size of less than 7 inches (measured diagonally); \n+ be the manufacturer’s standard design and specification; and \n+ not have been manufactured wholly or partly from precious or semi precious metals, stones or crystals.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Loss, theft, accidental damage and breakdown (after the manufacturer's warranty has expired) cover",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "This cover is included as standard.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Worldwide protection",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Cover applies worldwide, but we can only arrange a repair or replacement phone when you are back in the UK as we’re unable to deliver phones abroad.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Accessories up to £250 per claim",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "If the standard accessories supplied with your phone and/or any case, charger, screen protector and/or memory card are lost, stolen or damaged at the same time as your phone, you’re covered up to a maximum of £250 per claim.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            },
+                                            {
+                                                "heading": "Speedy replacement",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "In most cases, a replacement phone will be delivered to your home or place of work within 2 business days of your claim being accepted and the excess paid.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 3
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "What you should know",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Start date",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Your cover will begin as soon as your account is open.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Who is covered?",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "You, your partner (who lives with you in a domestic relationship) and/or your children under 18 years old who live at home with you (or under 23 years old if they are still in full-time education and live at home with you outside term time) are covered for the phones used on a daily basis.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            },
+                                            {
+                                                "heading": "Enhancements",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Cosmetic enhancements such as embellishments and plating and phones made wholly or substantially from precious metals are not covered.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 3
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Maximum claims",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "You can make a total of four approved claims during any 12 month period.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Excess",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "A £100 excess applies when your phone is replaced.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    }
+                ]
+            },
+            "sequenceNumber": 3
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "Private Banking User Guide  ",
+                                "fileType": "PDF",
+                                "fileSize": "470KB",
+                                "fileUrl": "http://www.ulsterbank.co.uk/ufirstprivateuserguide",
+                                "sequenceNumber": 1
+                            },
+                            {
+                                "title": "Ufirst Private Account Insurance Product\n Information Document",
+                                "fileType": "PDF",
+                                "fileSize": "569KB",
+                                "fileUrl": "http://www.ulsterbank.co.uk/ufirstPrivateIPID",
+                                "sequenceNumber": 2
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)",
+                        "className": "link"
+                    }
+                ]
+            },
+            "sequenceNumber": 4
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/ulster_ni/private/mobile_phone.png",
+                "heading": "Register a handset to make it even easier to claim",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "If you wish, you can register your phone and its IMEI number with us – it will make it quicker and easier if you need to make a claim. You can find your IMEI number on the box or receipt for your phone, or by dialing *#06# on your phone’s keypad. If you change your phone, remember to let us know.\n\nDon't worry - you're covered whether you've pre-registered or not, but you will need to register your phone using your IMEI to claim.",
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Register your handset or update your existing handset details",
+                            "href": "https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=RBSBrightstar&title=Mobile+Phone+Insurance+-+ufirst+Private+Register&data-tracking=Link%2cClick%2cRegister+Handset"
+                        },
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Alternatively you can call us on\n\n *[0345 607 2538](tel:03456072538)* \n\nLines are open 8am-8pm Monday to Friday, 9am-6pm Saturday, 10am-5pm Sunday and 10am-6pm Bank holidays. Please be advised calls are recorded for training and quality assurance purposes.",
+                        "sequenceNumber": 3
+                    }
+                ]
+            },
+            "sequenceNumber": 4
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Need to make a claim? No worries, we'll help",
+                            "content": "You can make a claim online or over the phone. If you haven’t already registered the phone you are claiming on you will need your IMEI number."
+                        },
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "buttonIcon": "",
+                            "text": "Find out more ",
+                            "linkType": "internal",
+                            "href": "/explore/mobile-phone-insurance/make-a-claim"
+                        },
+                        "sequenceNumber": 2
+                    }
+                ]
+            },
+            "sequenceNumber": 5
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Which phones are covered?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The policy covers phones that;\n\n+ have a screen size of less than 7 inches (measured diagonally);\n+ are the manufacturer’s standard design and specification;\n+ cannot be used as a satellite phone; and\n+ have not been manufactured wholly or partly from precious or semi precious metals, stones or crystals.\n\nPlease remember your mobile phone insurance covers the phone you use on a daily basis and if applicable the phone used on a daily basis by your partner and/or children under 18 years of age who live at home with you (under 23 if still in full time education and living at home with you outside term time).",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "When does my cover start?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Cover will begin as soon as your account has been opened. There is no requirement to register your phone and its IMEI number but if you do it will make it quicker and easier if you need to make a claim.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "heading": "Do I need to register my phone?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you wish, you can register your phone and its IMEI number with us – it’ll make it quicker and easier if you need to make a claim. You can find your IMEI number, on the box or receipt for your phone, or by dialling *#06# on your phone’s keypad.\n \n Don't worry - you're covered whether you've pre-registered or not, but you will need to register your phone using your IMEI to claim.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 3
+                    },
+                    {
+                        "heading": "What do I need to register my phone?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You will need:\n\n+ Your name and address\n+ The mobile phone number(s)\n+ The make, model, serial number, and IMEI number of the mobile phone(s)\n+ Your date of birth\n+ Purchase Date",
+                                "sequenceNumber": 1
+                            },
+                            {
+                                "type": "linkWithIcon",
+                                "content": {
+                                    "link": "\n\n[You can register online](https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=CarPhoneWarehouse&data-tracking=Link%2cClick%2cRegister+online&title=Mobile+Phone+Insurance+-+Silver+FAQ)",
+                                    "text": "You can register online",
+                                    "linkIcon": "icon-chevron-circle-right"
+                                }
+                            }
+                        ],
+                        "sequenceNumber": 4
+                    },
+                    {
+                        "heading": "How do I find the IMEI number for my phone?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can find your IMEI number, on the box or receipt for your phone, or by dialling *#06# on your phone’s keypad.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 4
+                    },
+                    {
+                        "heading": "Can I swap my cover to a new phone?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, you don’t have to tell us you have changed your phone but it will make it quicker and easier if you need to make a claim. [You can register online](https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=CarPhoneWarehouse&title=Mobile+Phone+Insurance+-+ufirst+Private+FAQ)",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 5
+                    },
+                    {
+                        "heading": "Will the replacement phone I receive be identical to my current phone?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "We’ll always try to provide you with the same make and model of phone, although it might be a different colour. In the unlikely event that our suppliers don’t have your phone in stock, we’ll offer you an alternative phone. This will be of at least equivalent technical specification but may be a different make, model or operating system or have different features and functions.\n\nOur replacement phones are usually refurbished models which come with a 12 month warranty provided by Brightstar.",
+                                "sequenceNumber": 6
+                            }
+                        ],
+                        "sequenceNumber": 6
+                    }
+                ]
+            },
+            "sequenceNumber": 6
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/mobile-phone-insurance",
+            "name": "Mobile Phone Insurance"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+  "banner": {
+    "type": "HeroBanner",
+    "content": {
+      "imageUrl": "/asset/rbs/black/two-womens-on-sofa.jpg",
+      "headingText": "Your Black\n\nAccount Benefits",
+      "buttonText": ""
+    }
+  },
+  "benefit": [
+    {
+      "title": "Travel Insurance",
+      "icon": "icon-credit-card",
+      "content": "Enjoy Worldwide travel cover for up to 90 days including winter sports for up to 31 days.",
+      "buttonText": "Use benefit",
+      "path": "/explore/worldwide-travel-insurance"
+    },
+    {
+      "title": "Mobile Phone Insurance",
+      "icon": "icon-mobile",
+      "content": "Protection against loss, theft, damage or breakdown of your mobile phone.",
+      "buttonText": "Use benefit",
+      "path": "/explore/mobile-phone-insurance"
+    },
+    {
+      "title": "Travel Service",
+      "icon": "icon-plane",
+      "content": "Saving you money with discounted holidays, hotels, car hire, parking and more.",
+      "buttonText": "Use benefit",
+      "path": "/explore/travel-service"
+    },
+    {
+      "title": "Cinema Discount",
+      "icon": "icon-cinema",
+      "content": "Great cinema prices with your Black account. Up to 40% off at over 250 cinemas nationwide. Any day, any time.",
+      "buttonText": "Use benefit",
+      "path": "/explore/cinema-discount"
+    },
+    {
+      "title": "Ticket Booking Service",
+      "icon": "icon-ticket",
+      "content": "Enjoy 25% cashback on tickets to the latest concerts and shows.",
+      "buttonText": "Use benefit",
+      "path": "/explore/ticket-booking-service"
+    },
+    {
+      "title": "Car Breakdown Cover",
+      "icon": "icon-car",
+      "content": "With UK & European car breakdown cover, help is just a phone call away.",
+      "buttonText": "",
+      "path": "/explore/car-breakdown-cover"
+    },
+    {
+      "title": "Home Emergency Service",
+      "icon": "icon-house ",
+      "content": "Relax in the knowledge we'll put you in safe hands and cover your repairs up to £750.",
+      "buttonText": "",
+      "path": "/explore/home-emergency"
+    },
+    {
+      "title": "Airport Lounge Access",
+      "icon": "icon-lounge ",
+      "content": "Access to over 1,000 executive airport lounges around the world.",
+      "buttonText": "",
+      "path": "/explore/airport-lounge-access"
+    },
+    {
+      "title": "Preferential Travel Money Rates",
+      "icon": "icon-pound-transfer ",
+      "content": "Preferential rates on currency delivered to your home at no extra charge.",
+      "buttonText": "Use benefit",
+      "path": "/explore/preferential-travel-money-rates"
+    },
+    {
+      "title": "Concierge Service",
+      "icon": "icon-tray",
+      "content": "Whatever your needs maybe, the 24/7 Concierge Service is here to help.",
+      "buttonText": "",
+      "path": "/explore/concierge-service"
+    }
+  ],
+  "benefitBlocks": [
+    {
+      "buttonText": "Manage your account",
+      "buttonUrl": "/account/manage-account",
+      "heading": "Manage your sign in details",
+      "blockText": "This is where you can change your personal details or password."
+    },
+    {
+      "buttonText": "View benefit usage",
+      "buttonUrl": "/account/recent-benefit-usage",
+      "heading": "View your past interactions with your benefits",
+      "blockText": ""
+    }
+  ]
+}

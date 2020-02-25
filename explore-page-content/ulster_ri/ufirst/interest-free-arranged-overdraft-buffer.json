@@ -1,0 +1,173 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Interest free\n\narranged overdraft",
+                "buttonText": "You can apply for this benefit",
+                "buttonURL": "section3",
+                "linkType": "sectionJump",
+                "imageUrl": "/asset/ulster_ri/uFirst/interest-free.jpg"
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Overview",
+                            "content": "You can apply for an interest free arranged overdraft of up to €500 (0% variable). The account fee for the ufirst account is €10 per month."
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What you should know",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "className": "pdfLink",
+                                                "content": "This is an interest-free arranged overdraft which every ufirst member can apply for. Provided your arranged overdraft balance remains below the interest-free buffer you will not be charged arranged overdraft interest. If your arranged overdraft balance exceeds the interest-free buffer you will be charged arranged overdraft interest on the full arranged overdraft balance. Lending criteria, terms and conditions apply. Lending is subject to credit review and approval. Credit facilities are available to over 18s only who are residents of the Republic of Ireland. You must repay the overdraft on demand.\n\nYour debit balance should not exceed your arranged overdraft limit. If your account overruns without formally agreeing an arranged overdraft, or you exceed your arranged overdraft limit, this is called an Unarranged borrowing. When this happens, you will incur Unarranged borrowing interest as well as the Maintenance Charge. For full details of the interest and charges please see our [A guide to personal accounts fees and interest(PDF, 174KB)](http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/a-guide-to-personal-accounts-fees-and-interest-ULST1376RI.pdf)."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/ulster_ri/uFirst/intrest-free-article.jpg",
+                "heading": "",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "Want to apply for an interest free arranged overdraft"
+                    },
+                    {
+                        "type": "marked",
+                        "className": "subHeading",
+                        "content": "You can apply for an interest free arranged overdraft online, over the phone or at your local Ulster Bank branch"
+                    },
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Apply online",
+                            "href": "http://www.ulsterbank.ie/apply.ashx?PER-ROI-CA-OVERDRAFT"
+                        }
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Apply over the phone: Call  \n\n*[1800 303 004](tel:1800303004)*\n\nLines are open 8:30am to 7:30pm Monday to Friday and 9am to 2pm on Saturdays. Please be advised calls are recorded for training and quality assurance purposes.\n\nApply through your local branch:  \n[Find your local Ulster Bank branch](\"\")"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "What happens if I exceed my interest free overdraft?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The interest free arranged overdraft may not be exceeded without the prior permission of Ulster Bank. If you go over your limit without letting us know, we will charge you interest at the arranged overdraft rate up to your limit and interest at the unarranged interest rate for any balance over and above your limit. A Maintenance Charge and other charges may also apply. Please refer to our booklet [A guide to personal accounts fees and interest](http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/a-guide-to-personal-accounts-fees-and-interest-ULST1376RI.pdf) for more details."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "What happens if I close or downgrade my ufirst account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you close or downgrade your ufirst account to an account other than a ufirst account, then you will no longer be entitled to this benefit and you will be charged interest on any amount your account is overdrawn by."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Can I open more than one packaged account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, please note that there may not be any additional advantage for you opening another account for the following benefits: Travel Service, Tailored Personal Loan Rates, Tailored Mortgage Rates and the Car Insurance discount (if you have more than two packaged accounts). You will also be charged an additional monthly account fee on the new packaged account."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Are all the benefits available if I live abroad?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you are living abroad or plan on living abroad, it is important to note that some of the benefits attached to your account are only available when you are visiting the Republic of Ireland or when you are resident in the Republic of Ireland. For further information please call ufirst Membership Services on *[1890 925 067](tel:1890925067)* or from outside the Republic of Ireland call *[0044 2392 676 832](tel:0442392676832)*."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "The details you need to know",
+                "content": [
+                    {
+                        "type": "marked",
+                        "className": "subHeading",
+                        "content": "Important additional information"
+                    },
+                    {
+                        "type": "marked",
+                        "content": "If you close or downgrade your ufirst account you will no longer be entitled to the benefits."
+                    },
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "ufirst User Guide",
+                                "fileType": "PDF",
+                                "fileSize": "532KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/ufirst-user-guide-ULST881RI.pdf"
+                            },
+                            {
+                                "title": "A guide to personal accounts fees and intrest",
+                                "fileType": "PDF",
+                                "fileSize": "174KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/a-guide-to-personal-accounts-fees-and-interest-ULST1376RI.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "className": "link",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+                    }
+                ]
+            }
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/interest-free-arranged-overdraft-buffer",
+            "name": "Interest Free Arranged Overdraft"
+        }
+    ]
+}

@@ -1,0 +1,355 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Tailored personal\n\nloan rate",
+                "buttonText": "Apply for a tailored personal loan rate",
+                "buttonURL": "section3",
+                "linkType": "sectionJump",
+                "imageUrl": "/asset/ulster_ri/uFirst/interest-free.jpg"
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "ufirst Private customers can benefit from a tailored rate on fixed rate personal loans",
+                            "content": ""
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "What's covered?",
+                            "content": "As a ufirst Private customer you can enjoy a 1% discount on our standard fixed rates when you apply for an Ulster Bank loan. You can use your Ulster Bank personal loan for almost any purpose, such as a new car, fairytale wedding or home improvements. You can borrow from €1,500 up to €40,000 and your repayments are fixed for the length of your loan. \n\n **Fixed monthly repayments for ufirst customers over five years** "
+                        }
+                    },
+                    {
+                        "type": "table",
+                        "content": {
+                            "heading": "",
+                            "columnHeading": [],
+                            "rows": [
+                                {
+                                    "sequenceNumber": "1",
+                                    "style": {
+                                        "font-weight": "400"
+                                    },
+                                    "content": [
+                                        {
+                                            "sequenceNumber": "1",
+                                            "colspan": "1",
+                                            "content": "Total Amount of Credit"
+                                        },
+                                        {
+                                            "sequenceNumber": "2",
+                                            "colspan": "1",
+                                            "content": "€10,000"
+                                        },
+                                        {
+                                            "sequenceNumber": "3",
+                                            "colspan": "1",
+                                            "content": "€15,000"
+                                        },
+                                        {
+                                            "sequenceNumber": "4",
+                                            "colspan": "1",
+                                            "content": "€20,000"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "sequenceNumber": "2",
+                                    "style": {
+                                        "font-weight": "400"
+                                    },
+                                    "content": [
+                                        {
+                                            "sequenceNumber": "1",
+                                            "colspan": "1",
+                                            "content": "Borrowing Rate (fixed)"
+                                        },
+                                        {
+                                            "sequenceNumber": "2",
+                                            "colspan": "1",
+                                            "content": "7.24%"
+                                        },
+                                        {
+                                            "sequenceNumber": "3",
+                                            "colspan": "1",
+                                            "content": "6.68%"
+                                        },
+                                        {
+                                            "sequenceNumber": "4",
+                                            "colspan": "1",
+                                            "content": "6.68%"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "sequenceNumber": "3",
+                                    "style": {
+                                        "font-weight": "400"
+                                    },
+                                    "content": [
+                                        {
+                                            "sequenceNumber": "1",
+                                            "colspan": "1",
+                                            "content": "Representative APR* (fixed)"
+                                        },
+                                        {
+                                            "sequenceNumber": "2",
+                                            "colspan": "1",
+                                            "content": "7.5%"
+                                        },
+                                        {
+                                            "sequenceNumber": "3",
+                                            "colspan": "1",
+                                            "content": "6.9%"
+                                        },
+                                        {
+                                            "sequenceNumber": "4",
+                                            "colspan": "1",
+                                            "content": "6.9%"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "sequenceNumber": "4",
+                                    "style": {
+                                        "font-weight": "400"
+                                    },
+                                    "content": [
+                                        {
+                                            "sequenceNumber": "1",
+                                            "colspan": "1",
+                                            "content": "Duration"
+                                        },
+                                        {
+                                            "sequenceNumber": "2",
+                                            "colspan": "1",
+                                            "content": "5 years"
+                                        },
+                                        {
+                                            "sequenceNumber": "3",
+                                            "colspan": "1",
+                                            "content": "5 years"
+                                        },
+                                        {
+                                            "sequenceNumber": "4",
+                                            "colspan": "1",
+                                            "content": "5 years"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "sequenceNumber": "5",
+                                    "style": {
+                                        "font-weight": "400"
+                                    },
+                                    "content": [
+                                        {
+                                            "sequenceNumber": "1",
+                                            "colspan": "1",
+                                            "content": "Total Cost of Credit"
+                                        },
+                                        {
+                                            "sequenceNumber": "2",
+                                            "colspan": "1",
+                                            "content": "€1,951.40"
+                                        },
+                                        {
+                                            "sequenceNumber": "3",
+                                            "colspan": "1",
+                                            "content": "€2,689.20"
+                                        },
+                                        {
+                                            "sequenceNumber": "4",
+                                            "colspan": "1",
+                                            "content": "€3,585.40"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "sequenceNumber": "6",
+                                    "style": {
+                                        "font-weight": "400"
+                                    },
+                                    "content": [
+                                        {
+                                            "sequenceNumber": "1",
+                                            "colspan": "1",
+                                            "content": "Total Amount Repayable"
+                                        },
+                                        {
+                                            "sequenceNumber": "2",
+                                            "colspan": "1",
+                                            "content": "€11,951.40"
+                                        },
+                                        {
+                                            "sequenceNumber": "3",
+                                            "colspan": "1",
+                                            "content": "€17,689.20"
+                                        },
+                                        {
+                                            "sequenceNumber": "4",
+                                            "colspan": "1",
+                                            "content": "€23,585.40"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "sequenceNumber": "7",
+                                    "style": {
+                                        "font-weight": "400"
+                                    },
+                                    "content": [
+                                        {
+                                            "sequenceNumber": "1",
+                                            "colspan": "1",
+                                            "content": "Monthly Repayment"
+                                        },
+                                        {
+                                            "sequenceNumber": "2",
+                                            "colspan": "1",
+                                            "content": "€199.19"
+                                        },
+                                        {
+                                            "sequenceNumber": "3",
+                                            "colspan": "1",
+                                            "content": "€294.82"
+                                        },
+                                        {
+                                            "sequenceNumber": "4",
+                                            "colspan": "1",
+                                            "content": "€393.09"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "",
+                            "content": "*APR: Annual Percentage Rate"
+                        }
+                    },
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "What you should know",
+                            "className": "section_subheading",
+                            "content": "Representative example: €10,000 over 5 years at 7.24% fixed, 7.5% representative APR* (fixed), with 60 monthly repayments of €310.86. Total amount repayable €18,651.60.\n\n(Repayments may vary slightly according to the date that the loan is drawn down and the date of your monthly repayment but remain fixed for the term of the loan.)\n\n\n[More on Ulster Bank loans]()\n\nOther amounts available at alternative rates. Our rates depend on your loan amount and may differ from Representative APR. Available to over 18s and existing Ulster Bank current account customers resident in the Republic of Ireland only. Subject to approval. Lending criteria, terms and conditions apply. Please note the monthly account fee for the ufirst current account is €10"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/ulster_ri/private/desk-article.jpg",
+                "heading": "Need to apply for a tailored personal loan rate",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "You can apply for tailored personal loan rate by contacting your Relationship Manager."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "How much can I borrow?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can borrow any amount from €1,500 to €40,000."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Over how long can I take a loan?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The minimum borrowing term is one year. Loans can be taken for up to 5 years or up to 7 years for loans greater than €12,000. If you're borrowing for home improvements, you can take the loan over 10 years."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Can I open more than one packaged account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, please note that there may not be any additional advantage for you opening another account for the following benefits: Travel Service, Tailored Personal Loan Rates, Tailored Mortgage Rates and the Car Insurance discount (if you have more than two packaged accounts). You will also be charged an additional monthly membership fee on the new packaged account."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Are all the benefits available if I live abroad?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you are living abroad or plan on living abroad, it is important to note that some of the benefits attached to your account are only available when you are visiting the Republic of Ireland or when you are resident in the Republic of Ireland. For further information please call ufirst Private Membership Services on *[1890 825 125](tel:1890825125)* or from outside the Republic of Ireland call *[0044 2392 676 982](tel:00442392676982)*."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "ufirst Private User Guide",
+                                "fileType": "PDF",
+                                "fileSize": "603KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/private-banking-user-guide-ULST773RI.pdf"
+                            },
+                            {
+                                "title": "A guide to personal accounts fees and interest",
+                                "fileType": "PDF",
+                                "fileSize": "351KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/a-guide-to-personal-accounts-fees-and-interest-ULST1376RI.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "className": "link",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+                    }
+                ]
+            }
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/tailored-rates-on-personal-loans",
+            "name": "Tailored Personal Loan Rates"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+  "banner": {
+    "type": "HeroBanner",
+    "content": {
+      "imageUrl": "/asset/natwest/silver/Girl-on-Sofa.jpg",
+      "headingText": "Your Silver \n\nAccount Benefits",
+      "buttonText": ""
+    }
+  },
+
+  "benefit": [
+    {
+      "title": "Travel Insurance",
+      "icon": "icon-credit-card",
+      "content": "Enjoy UK & European travel insurance for up to 22 days.",
+      "buttonText": "Use benefit",
+      "path": "/explore/european-travel-insurance"
+    },
+    {
+      "title": "Mobile Phone Insurance",
+      "icon": "icon-mobile",
+      "content": "Protection against loss, theft, damage or breakdown of your mobile phone.",
+      "buttonText": "Use benefit",
+      "path": "/explore/mobile-phone-insurance"
+    },
+    {
+      "title": "Cinema Discount",
+      "icon": "icon-cinema",
+      "content": "Great cinema prices with your Silver account. Up to 40% off at over 250 cinemas nationwide. Any day, any time.",
+      "buttonText": "Use benefit",
+      "path": "/explore/cinema-discount"
+    },
+    {
+      "title": "tastecard Membership",
+      "icon": "icon-dine",
+      "content": "Discounted dining at thousands of UK restaurants.",
+      "buttonText": "Use benefit",
+      "path": "/explore/tastecard-membership"
+    },
+    {
+      "title": "Preferential Travel Money Rates",
+      "icon": "icon-pound-transfer",
+      "content": "Preferential rates on currency delivered to your home at no extra charge.",
+      "buttonText": "Use benefit",
+      "path": "/explore/preferential-travel-money-rates"
+    }
+  ],
+  "benefitBlocks": [
+    {
+      "buttonText": "Manage your account",
+      "buttonUrl": "/account/manage-account",
+      "heading": "Manage your sign in details",
+      "blockText": "This is where you can change your personal details or password."
+    },
+    {
+      "buttonText": "View benefit usage",
+      "buttonUrl": "/account/recent-benefit-usage",
+      "heading": "View your past interactions with your benefits",
+      "blockText": ""
+    }
+  ]
+}

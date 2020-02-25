@@ -1,0 +1,399 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Mobile\n \n Phone Insurance",
+                "imageUrl": "/asset/natwest/platinum/mobile-insurance-platinum.jpg",
+                "linkType": "external"
+            },
+            "sequenceNumber": 1
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Incidents occurring on 30th September or earlier",
+                            "className": "mobile_insurance_button_after_header",
+                            "href": "https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=CarPhoneWarehouse&title=Incidents+occurring+on+30th+September+or+earlier&data-tracking=Link%2cClick%2cMake+a+Claim"
+                        },
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Incidents occurring on 1st October or later",
+                            "className": "mobile_insurance_button_after_header",
+                            "href": "https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=RBSBrightstar&title=Incidents+occurring+on+1st+October+or+later&data-tracking=Link%2cClick%2cMake+a+Claim"
+                        },
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Just one of the benefits of your Platinum Account",
+                            "content": "How would you get by without your mobile phone? With your Platinum Mobile Phone Insurance, your phone is covered for accidental damage, theft, loss and breakdown (once your manufacturer's warranty has expired). Cover applies worldwide.\n\nWe'll settle claims by replacing, or, in certain circumstances, repairing your phone. Our replacement phones are refurbished using genuine manufacturer parts and will be in an \"as new\" condition. If you choose a repair option, any repairs will use genuine manufacturer or manufacturer quality parts. You’re automatically covered but if your phone is registered, it‘ll make it quicker and easier if you need to make a claim. Please remember your mobile phone insurance covers your phone only – that’s the phone you use on a daily basis. It does not extend to phones used on a daily basis by family members or friends even if you pay the bill.\n\nIf your account is in joint names, cover is also provided for the phone the other account holder uses on a daily basis.\n\nThere is no cover for phones owned by your employer.\n\nMobile phone insurance is underwritten by American International Group UK Limited and provided by Brightstar Insurance Services, B.V. (UK Branch)."
+                        },
+                        "sequenceNumber": 3
+                    }
+                ]
+            },
+            "sequenceNumber": 2
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's covered?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Most mobile phones are covered",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "To be covered the phone has to:\n\n1.have a screen size of less than 7 inches (measured diagonally);\n\n 2.be the manufacturer’s standard design and specification; and\n\n 3.not have been manufactured wholly or partly from precious or semi precious metals, stones or crystals.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Loss, theft, accidental damage and breakdown (after the manufacturer's warranty has expired) cover",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "This cover is included as standard.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            },
+                                            {
+                                                "heading": "Accessories up to £250 per claim",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "If the standard accessories supplied with your phone and/or any case, charger, screen protector and/or memory card are lost, stolen or damaged at the same time as your phone, you’re covered up to a maximum of £250 per claim.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 3
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Worldwide protection",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Cover applies worldwide, but we can only arrange a repair or replacement phone when you are back in the UK as we’re unable to repair or deliver phones abroad.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Speedy replacement",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "In most cases, a replacement phone will be delivered to your home or place of work within 2 business days of your claim being accepted and the excess paid.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            },
+                                            {
+                                                "heading": "Convenient repair",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "In certain circumstances, you can choose to have your phone repaired either by taking your phone to our repair agent or by having our repair agent come to your location.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 3
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "What you should know",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Start date",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Your cover will begin as soon as your account is open.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Who is covered",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "This cover is for your phone only – that’s the phone you use on a daily basis. It does not extend to phones used on a daily basis by family members or friends even if you pay the bill.\n\nIf your account is in joint names, cover is also provided for the phone the other account holder uses on a daily basis.\n\nThere is no cover for phones owned by your employer.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            },
+                                            {
+                                                "heading": "Enhancements",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Cosmetic enhancements such as embellishments and plating and phones made wholly or substantially from precious metals are not covered.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 3
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Maximum claims",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "You can make two approved claims during any 12 month period. If this is a joint account, each account holder can make two approved claims, with a maximum of four claims per account.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Excess",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "+ A £100 excess applies when your phone is replaced.\n+ A £50 excess applies when the phone is repaired.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    }
+                ]
+            },
+            "sequenceNumber": 3
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/natwest/platinum/mobile-phone-platinum.png",
+                "heading": "Register a handset to make it even easier to claim",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "If you wish, you can register your phone and its IMEI number with us – it will make it quicker and easier if you need to make a claim. You can find your IMEI number on the box or receipt for your phone, or by dialling *#06# on your phone’s keypad. If you change your phone, remember to let us know.\n\nDon't worry - you're covered whether you've pre-registered or not, but you will need to register your phone using your IMEI to claim.\n",
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Register your handset or update your existing handset details",
+                            "href": "https://localhost:44396/PartnerJump.aspx?partner=CarPhoneWarehouse&title=Mobile+Phone+Insurance+-+Black+Register&data-tracking=Link%2cClick%2cRegister+Handset"
+                        },
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Alternatively you can call us on\n\n*[0345 609 0453](tel:03456090453)*\n\n(Minicom *[0345 600 0512](tel:03456000512)* ). Lines are open 8am-8pm Monday to Friday, 9am-6pm Saturday, Sunday and Bank Holidays. Please be advised calls are recorded for training and quality assurance purposes.",
+                        "sequenceNumber": 3
+                    }
+                ]
+            },
+            "sequenceNumber": 4
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Need to make a claim? No worries, we'll help",
+                            "content": "You can make a claim online or over the phone. If you haven’t already registered the phone you are claiming on you will need your IMEI number."
+                        },
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "buttonIcon": "icon-chevron-circle-right",
+                            "text": "Find out more ",
+                            "linkType": "internal",
+                            "href": "/explore/mobile-phone-insurance/make-a-claim"
+                        },
+                        "sequenceNumber": 2
+                    }
+                ]
+            },
+            "sequenceNumber": 5
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Which phones are covered?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The policy covers phones that;\n\n+ have a screen size of less than 7 inches (measured diagonally);\n+ are the manufacturer’s standard design and specification;\n+ cannot be used as a satellite phone; and\n+ have not been manufactured wholly or partly from precious or semi precious metals, stones or crystals.\n\nPlease remember your mobile phone insurance covers your phone only – that’s the phone you use on a daily basis. It does not extend to phones used on a daily basis by family members or friends even if you pay the bill.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "When does my cover start?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Cover will begin as soon as your account has been opened. There is no requirement to register your phone and its IMEI number but if you do it will make it quicker and easier if you need to make a claim.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "heading": "Do I need to register my phone?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you wish, you can register your phone and its IMEI number with us – it’ll make it quicker and easier if you need to make a claim. You can find your IMEI number, on the box or receipt for your phone, or by dialling __*#06#__ on your phone’s keypad. Don't worry - you're covered whether you've pre-registered or not, but you will need to register your phone using your IMEI to claim.\n",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 3
+                    },
+                    {
+                        "heading": "What do I need to register my phone?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You will need:\n\n+ Your name and address\n+ The mobile phone number(s)\n+ The make, model, and IMEI number of the mobile phone(s)\n+ Your date of birth\n+ Purchase date\n\n[You can register online](https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=CarPhoneWarehouse&title=Mobile+Phone+Insurance+-+Platinum+FAQ 'Mobile Phone Insurance - Platinum FAQ')",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 4
+                    },
+                    {
+                        "heading": "How do I find the IMEI number for my phone?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can find your IMEI number, on the box or receipt for your phone, or by dialling *#06# on your phone’s keypad.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 5
+                    },
+                    {
+                        "heading": "Can I swap my cover to a new phone?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, you don't have to tell us you have changed your phone but it will make it quicker and easier if you need to make a claim. You can register on line.\n\nPlease remember your mobile phone insurance covers your phone only – that’s the phone you use on a daily basis. It does not extend to phones used on a daily basis by family members or friends even if you pay the bill.\n",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 6
+                    },
+                    {
+                        "heading": "Will the replacement phone I receive be identical to my current phone?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "We’ll always try to provide you with the same make and model of phone, although it might be a different colour. In the unlikely event that our suppliers don’t have your phone in stock, we’ll offer you an alternative phone. This will be of at least equivalent technical specification but may be a different make, model or operating system or have different features and functions.\n\nOur replacement phones are usually refurbished models which come with a 12 month warranty from Brightstar. If your phone is repaired, it will come with a 24 month warranty from the repair agent.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 7
+                    }
+                ]
+            },
+            "sequenceNumber": 6
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "Platinum Account Benefit Terms ",
+                                "fileType": "PDF",
+                                "fileSize": " 548KB",
+                                "fileUrl": "http://personal.natwest.com/content/dam/natwest_com/currentaccounts/downloads/Reward/Platinum%20Benefit%20Terms.pdf",
+                                "sequenceNumber": 1
+                            },
+                            {
+                                "title": "Platinum Account Insurance Product Information Document",
+                                "fileType": "PDF",
+                                "fileSize": " 193KB",
+                                "fileUrl": "http://www.natwest.com/PlatinumAccountIPID",
+                                "sequenceNumber": 2
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)",
+                        "className": "link"
+                    }
+                ]
+            },
+            "sequenceNumber": 7
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/mobile-phone-insurance",
+            "name": "Mobile Phone Insurance"
+        }
+    ]
+}

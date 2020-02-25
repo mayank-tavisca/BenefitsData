@@ -1,0 +1,157 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Worldwide airport\n\nlounge access",
+                "buttonText": "Take advantage of your membership",
+                "buttonURL": "section3",
+                "linkType": "sectionJump",
+                "imageUrl": "/asset/ulster_ri/private/airport-lounge.jpg"
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Avoid the hustle and bustle of airports - start your holiday in style",
+                            "content": "You need to apply for this benefit. As a ufirst Private member you can apply for a Priority Pass giving you access to over 700 airport lounges around the world for a small fee."
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's included?",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "As a ufirst Private account holder the annual fee - normally €99 - will be waived. For a fee of €24 per person per visit, you, your family, or friends travelling with you can enjoy the comfort of an executive lounge - even when you're flying economy."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "Airport Lounge Access offers:",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "+ Access to over 700 VIP lounges in more then 120 countries and 400 cities worldwide\n\n+ Complimentary refreshments and snacks\n\n+ Excellent working facilities\n\n+ Privileged access to over 70 US Airport VIP Lounges\n\n+ Relaxing ambience - for you and your guests"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/ulster_ri/private/ticket-booking-article.jpg",
+                "heading": "You need to apply for this benefit",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "You can apply for a Priority Pass online or by phone."
+                    },
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Apply Online",
+                            "href": "http://www.prioritypass.com/ulsterbank/"
+                        }
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Apply by phone - Call\n\n*[1890 825 125](tel:1890825125)*.\n\nLines are open Monday to Friday 8am-8pm, Saturdays 9am-5pm, excluding Bank Holidays\n\nTo use your Priority Pass just present your card at the airport lounge. You'll be charged a fee - currently €24 per person per visit."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Can I open more than one packaged account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, please note that there may not be any additional advantage for you opening another account for the following: Travel Service, Airport Lounge Access, Tailored Personal Loan Rates, Tailored Mortgage Rates, Commission Free Travel Money, Worldwide Travel Insurance and Car Insurance discount (if you have more than two packaged accounts). You will also be charged an additional monthly membership fee on the new packaged account."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Are all the benefits available if I live abroad?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you are living abroad or plan on living abroad, it is important to note that some of the benefits attached to your account are only available when you are visiting the Republic of Ireland or when you are resident in the Republic of Ireland. For further information please call ufirst Private Membership Services on *[1890 825 125](tel:1890825125)* or from outside the Republic of Ireland call *[00 44 2392 676 982](tel:00442392676982)*."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "How much does this service cost?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "It costs €24per person per visit. You must apply for this benefit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "ufirst Private User Guide",
+                                "fileType": "PDF",
+                                "fileSize": " 604KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/private-banking-user-guide-ULST773RI.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "className": "link",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+                    }
+                ]
+            }
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/airport-lounge-access",
+            "name": "Airport Lounge Access"
+        }
+    ]
+}

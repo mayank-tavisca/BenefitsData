@@ -1,0 +1,173 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Preferential arranged\n\noverdraft interest rate",
+                "buttonText": "Apply online",
+                "buttonURL": "section3",
+                "linkType": "sectionJump",
+                "imageUrl": "/asset/ulster_ri/gold/interest-free.jpg"
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Preferential arranged overdraft interest rate",
+                            "content": ""
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's covered?",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "You can apply for a higher arranged overdraft limit above the interest-free arranged overdraft limit. A preferential arranged overdraft interest rate is available for our ufirstgold customers."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "What you should know",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "Your debit balance should not exceed your arranged overdraft limit. If your account overruns without formally agreeing an overdraft, or you exceed your arranged overdraft limit, this is called unarranged borrowing. When this happens, you will incur Unarranged Borrowing charges as shown in our [A Guide to Personal Account Fees and Interest brochure](http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/a-guide-to-personal-accounts-fees-and-interest-ULST1376RI.pdf). You will also incur Unarranged Borrowing Interest, which consists of the arranged overdraft interest rate for your account type plus an additional 9% (variable) surcharge rate.\n\nLending criteria, terms and conditions apply. Credit facilities are available to over 18s only. An overdraft is repayable on demand. For more information, please refer to our booklet [A Guide to Personal Account Fees and Interest](http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/a-guide-to-personal-accounts-fees-and-interest-ULST1376RI.pdf) for more details."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/ulster_ri/gold/Telephone.jpg",
+                "heading": "",
+                "content": [
+                    {
+                        "type": "marked",
+                        "className": "subHeading",
+                        "content": "Apply for your preferential arranged overdraft interest rate"
+                    },
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Apply Online",
+                            "href": "#"
+                        }
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Apply over the phone\n\nCall\n\n*[1800 303 044](tel:1800303044)*\n\nLines are open 8:30am to 7:30pm Monday to Friday and 9am to 2pm on Saturdays. Please be advised calls are recorded for training and quality assurance purposes.\n\n\nApply through your local branch\n\n__[Find your local Ulster Bank branch]()__"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "What happens if I close or downgrade my ufirstgold account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you close or downgrade your ufirstgold account to an account other than a ufirst account, then you will no longer be entitled to this benefit and you will be charged interest on any amount your account is overdrawn by."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Can I open more than one packaged account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, please note that there may not be any additional advantage for you opening another account for the following: Travel Service, Airport Lounge Access, Tailored Personal Loan Rates, Tailored Mortgage Rates, Commission Free Travel Money, Worldwide Travel Insurance and Car Insurance discount (if you have more than two packaged accounts). You will also be charged an additional monthly membership fee on the new packaged account."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Are all the benefits available if I live abroad?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you are living abroad or plan on living abroad, it is important to note that some of the benefits attached to your account are only available when you are visiting the Republic of Ireland or when you are resident in the Republic of Ireland. For further information please call ufirstgold Membership Services on *[1890 946 486](tel:1890946486)* or from outside the Republic of Ireland call *[00 44 2392 676 738](tel:00442392676738)*."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "If you close or downgrade your ufirstgold account you will no longer be entitled to the benefits."
+                    },
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "ufirstgold User Guide",
+                                "fileType": "PDF",
+                                "fileSize": " 518KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/ufirst-gold-user-guide-ULST1664RI.pdf"
+                            },
+                            {
+                                "title": "A guide to personal accounts fees and interest",
+                                "fileType": "PDF",
+                                "fileSize": " 351KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/a-guide-to-personal-accounts-fees-and-interest-ULST1376RI.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "className": "link",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+                    }
+                ]
+            }
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/preferential-arranged-overdraft-interest-rates",
+            "name": "Preferential Arranged Overdraft Interest Rate"
+        }
+    ]
+}

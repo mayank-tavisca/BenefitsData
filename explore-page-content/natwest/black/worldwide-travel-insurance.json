@@ -1,0 +1,427 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Worldwide Travel\n\nInsurances",
+                "buttonText": "Need to make a claim?",
+                "imageUrl": "/asset/natwest/black/worldwide-travel.jpg",
+                "linkType": "external"
+            },
+            "sequenceNumber": 1
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Annual family cover for worldwide trips up to 90 days - including winter sports cover up to 31 days",
+                            "content": "Enjoy worldwide travel with annual cover for trips up to 90 days and 31 days for winter sports.\n\nIf you or those covered under this policy have a pre-existing medical condition, this policy will not cover any claims in relation to it. If you would like to see if cover is available, you can call us. You may have to pay an additional premium and U K Insurance Limited reserve the right not to extend the policy.\n\n[Click here](\"https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=NatWestTravelInsurancescreening&title=Medical+Screening&data-tracking=Link%2cClick%2cMedical+screening\") to check if you may need additional cover for any pre existing medical conditions. Alternatively call us on *[0345 601 7188](tel:03456017188)* (minicom *[0345 600 0512](tel:03456000512)*). Please be advised calls are recorded for training and quality assurance purposes.\n\nTravel Insurance is underwritten by U K Insurance Limited."
+                        },
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 2
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What you should know",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Existing medical conditions",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "If you or those covered under this policy have a pre-existing medical condition, this policy will not cover any claims in relation to it. If you would like to see if cover is available, [click here](https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=NatWestTravelInsurancescreening&title=Medical+Screening&data-tracking=Link%2cClick%2cMedical+Screesning) to answer a few simple questions. Alternatively you can call us. You may have to pay extra for this or you may find that your condition cannot be covered.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "UK trips",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "These must be pre-booked, for three or more consecutive days.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Family cover",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Includes you and your partner, plus any dependent children who must be under 18 at the start date of your journey (or under 23 and in full-time education), living at the home address (or with the other parent), unmarried and not entered into a civil partnership.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Over 70s",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "If you, or those covered under this policy are aged 70 or over, you must call us each year in order to obtain cover. You will need to pay an annual premium of £75 per insured person aged 70 or over and be medically screened.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "What's covered?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Emergency medical and dental expenses",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £10 million per insured person for medical and emergency expenses and hospital benefit up to £700 per person. Dental expenses up to £1,000 per insured person.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Legal expenses",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £50,000 cover and personal liability up to £2 million per event.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            },
+                                            {
+                                                "heading": "Baggage cover and personal money",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £2,500 per claim per insured person for personal possessions that are lost, damaged, stole or destroyed while you're on holiday. Up to £500 per person for personal money. Cover is limited to £400 per item and £1,000 overall for valuables.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 3
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Transport",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Travel delays up to £250 for the first full four hours. Missed international departure up to £1,000 per insured person.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Cancellation and curtailment",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £10,000 per insured person.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "heading": "Winter sports cover",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Ski pack",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Where you're unable to use your ski pack on advice from a medical adviser, we'll provide up to £250 per insured person per week for your unused prepaid pass, ski school and hire fees which you originally pre-booked in the UK.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Piste closures",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "We'll compensate you up to £30 per person per day if you're unable to ski.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Hired skis",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "If your own ski equipment is damaged, lost or stolen, we'll provide up to £200 per insured person to hire replacement equipment for the remainder of your journey.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 3
+                    }
+                ]
+            },
+            "sequenceNumber": 3
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/natwest/black/woman-mobile-cab.jpg",
+                "heading": "Need to make a claim? No worries, we'll help",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "To make a travel insurance claim, click here to register your claim or call\n\n *[0345 601 7188](tel:03456017188)* \n\n(Minicom *[0345 600 0512](tel:03456000512)*). Lines are open 8am-6pm Monday to Friday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes.\n\nOverseas? If you are overseas and need emergency assistance, call\n\n *[+44 (0)125 230 8794](tel:+441252308794)* \n\nLines are open 24/7, 365 days a year. Charges may apply and please be advised calls are recorded for training and quality assurance purposes.",
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 4
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "How do I register for travel insurance ?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You don't need to register. Cover is provided automatically to the accountholder, their partner and their children - subject to terms and conditions - see the 'Who is covered under my policy' question. If you or those covered under this policy have a pre-existing medical condition, this policy will not cover any claims in relation to it. If you would like to see if cover is available, you can call U K Insurance Limited. You may have to pay an additional premium and U K Insurance Limited reserve the right not to extend the policy.\n\nIf you, your partner or the joint account holder is aged 70 and over, you must call us each year in order to obtain cover. You will need to pay an annual premium of £75 per person insured aged 70 or over and be medically screened.\n\nIf you wish to call us, please call *[0345 601 7188](tel:03456017188)* (Minicom *[0345 600 0512](tel:03456000512)*). Lines are open 8am-8pm Monday to Friday and 9am-5pm Saturday and 10am to 5pm Sunday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "Where can I find my policy number?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "We don't issue policy numbers, instead you can use our generic policy number AP20840119.\n\nIf you have been medically screened or purchased an upgrade, your documents will show the number you need to use.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "heading": "Do I need to take my policy document with me when I go on holiday?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Your policy document may come in handy if you have to seek medical attention or have any other reason for which you need to claim - so we would recommend that you take it with you. Please read it before you book a holiday and before you travel, to ensure you understand what cover you're getting and what you need to do in the event of a claim.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 3
+                    },
+                    {
+                        "heading": "How can I get a copy of my policy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can download a copy of your policy using the link below:\n\n[Black Account Travel Insurance Policy (PDF, 3.97MB)](\"http://personal.natwest.com/content/dam/natwest_com/currentaccounts/downloads/Reward/Black%20Account%20Travel%20Insurance%20Policy.pdf\")\n\nIf you would like a hard copy of the policy, call us on *[0345 601 7188](tel:03456017188)* (Minicom *[0345 600 0512](tel:03456000512)*). Lines are open 8am-8pm Monday to Friday and 9am-5pm Saturday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 4
+                    },
+                    {
+                        "heading": "Can I add other cover to my policy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, you can add business, wedding, golf and hazardous activity cover. You can also add guests and be medically screened. There's an extra premium for these types of cover. Call us on *[0345 601 7188](tel:03456017188)* (Minicom *[0345 600 0512](tel:03456000512)*) for more information. Lines are open 8am-8pm Monday to Friday and 9am-5pm Saturday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 5
+                    },
+                    {
+                        "heading": "Who is covered under the policy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Apart from you, the policy also covers your partner and any dependent children. Dependent children must be:\n\n+ Under 18 at the start date of the journey (or under 23 and in full-time education)\n+ Living at the home address (or with the other parent)\n+ Unmarried and not entered into a civil partnership\n\nYou can pay to add guests to the policy, as long as they're travelling with you. Call us on *[0345 601 7188](tel:03456017188)* (Minicom *[0345 600 0512](tel:03456000512)*) for more information. Lines are open 8am-8pm Monday to Friday and 9am-5pm Saturday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 6
+                    },
+                    {
+                        "heading": "Does the policy cover holidays in the UK?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, these must be pre-booked, for three or more consecutive days.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 7
+                    },
+                    {
+                        "heading": "What's the longest holiday that can be covered under the policy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You many take as many trips as you like throughout the year, however, the maximum length of trip is 90 days and 31 days for winter sports holidays. You can request an extension to your trip length by telephoning [0345 6017 188](tel:03456017188).",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 8
+                    },
+                    {
+                        "heading": "Can more than one trip be covered each year?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, there's no limit on the number of trips that can be covered each year.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 9
+                    },
+                    {
+                        "heading": "When can I call to upgrade my cover, make a claim or to get emergency assistance?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Number to call: 0345 601 7188 (Minicom 0345 600 0512). Please be advised calls are recorded for training and quality assurance purposes.\n\nTimes:\n\n+ **For emergency assistance**, lines are open 24 hours a day, 7 days a week, Call on [+44 1252 308794](tel:+441252308794)\n+ **For upgrades and medical screening enquiries**, lines are open 8am-8pm Monday to Friday and 9am-5pm Saturday and 10am to 5pm Sunday (excluding bank and public holidays).\n+ **For claims**, 8am-6pm Monday to Friday (excluding bank and public holidays).",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 10
+                    },
+                    {
+                        "heading": "I'm overseas and need emergency travel assistance, who do I contact?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you require emergency travel assistance when you are overseas, you can call U K Insurance Limited on [+44 (0) 125 230 8794](tel:+441252308794). Lines are open 24 hours a day, 7 days a week. Call charges apply and please be advised calls are recorded for training and quality assurance purposes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 11
+                    }
+                ]
+            },
+            "sequenceNumber": 5
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "Black Account Benefit Terms ",
+                                "fileType": "PDF",
+                                "fileSize": "2.76MB",
+                                "fileUrl": "http://personal.natwest.com/content/dam/natwest_com/currentaccounts/downloads/Reward/Black%20Account%20Benefit%20Terms.pdf",
+                                "sequenceNumber": 1
+                            },
+                            {
+                                "title": "Black Account Travel Insurance Policy",
+                                "fileType": "PDF",
+                                "fileSize": "396KB",
+                                "fileUrl": "http://personal.natwest.com/content/dam/natwest_com/currentaccounts/downloads/Reward/Black%20Account%20Travel%20Insurance%20Policy.pdf",
+                                "sequenceNumber": 2
+                            },
+                            {
+                                "title": "Black Account Insurance Product Information Document",
+                                "fileType": "PDF",
+                                "fileSize": "162KB",
+                                "fileUrl": "http://www.natwest.com/BlackAccountIPID",
+                                "sequenceNumber": 3
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)",
+                        "className": "link"
+                    }
+                ]
+            },
+            "sequenceNumber": 6
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/worldwide-travel-insurance",
+            "name": "Travel Insurance"
+        }
+    ]
+}

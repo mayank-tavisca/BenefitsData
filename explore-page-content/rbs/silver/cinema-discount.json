@@ -1,0 +1,505 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Cinema\n \nDiscounts",
+                "buttonText": "Buy now",
+                "buttonUrl": "/partner-jump/RBSCinema",
+                "imageUrl": "/asset/rbs/silver/cinema/Cinema_Top_People.jpg",
+                "linkType": "external"
+            },
+            "sequenceNumber": 1
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Great cinema prices with your Silver account. Up to 40% off at over 250 cinemas nationwide. Any day, any time.",
+                            "content": "Buy a reduced price eCode with us and redeem at one of these cinema chains throughout the UK:"
+                        },
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "type": "images",
+                        "content": [
+                            {
+                                "imageUrl": "![Vue](/asset/rbs/silver/cinema/logo/vue.png)",
+                                "sequenceNumber": 1
+                            },
+                            {
+                                "imageUrl": "![ODEON](/asset/rbs/silver/cinema/logo/odeon.png)",
+                                "sequenceNumber": 2
+                            },
+                            {
+                                "imageUrl": "![Showcase](/asset/rbs/silver/cinema/logo/showcase.png)",
+                                "sequenceNumber": 3
+                            },
+                            {
+                                "imageUrl": "![Empire](/asset/rbs/silver/cinema/logo/empire.png)",
+                                "sequenceNumber": 4
+                            },
+                            {
+                                "imageUrl": "![Reel Cinema](/asset/rbs/silver/cinema/logo/reelcinema.png)",
+                                "sequenceNumber": 5
+                            },
+                            {
+                                "imageUrl": "![Merlin](/asset/rbs/silver/cinema/logo/merlin.png)",
+                                "sequenceNumber": 6
+                            },
+                            {
+                                "imageUrl": "![The Grosvenor](/asset/rbs/silver/cinema/logo/Grosvenor-Glasgow.png)",
+                                "sequenceNumber": 7
+                            },
+                            {
+                                "imageUrl": "![IMAX Playhouse](/asset/rbs/silver/cinema/logo/IMAX-Playhouse.png)",
+                                "sequenceNumber": 8
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    }
+                ]
+            },
+            "sequenceNumber": 2
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What's included?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "over 250 cinemas",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "With nearly 2,000 screens between them, including the chains ODEON, Vue and Showcase.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "No limit to how many transactions you can make",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "You can purchase a maximum of 6 eCodes per transaction, and make as many transactions as you want all year round.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Fixed prices nationwide",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Set prices depend on your chosen cinema chain, with the only difference being for London cinemas.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Want to buy for an upcoming release",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Your eCodes are valid for 6 months from purchase, so you can purchase your eCodes and redeem them as soon as your chosen cinema chain starts selling advance tickets.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 3
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": [
+                    {
+                        "imageUrl": "/asset/rbs/silver/cinema/generic/cinemaprmo_1.JPG",
+                        "imageAltText": "Cinema Promo Poster",
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "imageUrl": "/asset/rbs/silver/cinema/generic/cinemaprmo2.jpg",
+                        "imageAltText": "Cinema Promo Poster",
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "imageUrl": "/asset/rbs/silver/cinema/generic/cinemaprmo_3.jpg",
+                        "imageAltText": "Cinema Promo Poster",
+                        "sequenceNumber": 3
+                    }
+                ],
+                "heading": "Buy your eCodes online today",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "Select the cinema chain for your Discounted Cinema Tickets here, then choose the cinema, film, date, time and seat selection when you your eCodes with the cinema either online or in person.",
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "type": "linkButton",
+                        "content": {
+                            "text": "Buy now",
+                            "href": "/partner-jump/RBSCinema"
+                        },
+                        "sequenceNumber": 2
+                    }
+                ]
+            },
+            "sequenceNumber": 4
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "How does the Cinema Discount work?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Buy an eCode online via Membership Services and redeem it at over 250 cinemas across the UK. Any day, any time.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "How do I buy an eCode?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "It's easy, just log onto Membership Services online and click on 'Cinema Discount'.  \nThen choose a cinema chain and the number of codes you want (up to a maximum of six in one transaction).  \nFollow the on-screen instructions to enter your card details and make a payment.  \nYour eCodes will be displayed online immediately, and also sent by email. You're then ready to go!",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "heading": "The price on the site is not the level of discount I was expecting?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Cinema ticket prices vary across the UK, even within the same cinema chains. To try and keep things simple we've agreed standard pricing with the cinemas. This means the more expensive cinemas look like amazing value whilst compared to cheap midweek daytime tickets it won't seem like such a big discount. Our pricing is designed to give the best mid-point so please bear that in mind.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 3
+                    },
+                    {
+                        "heading": "How many times can I use the cinema discount benefit?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "There is no limit to how often you can use the benefit, but please note the service is subject to our fair use policy.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 4
+                    },
+                    {
+                        "heading": "How many cinema eCodes can I buy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Subject to availability, you can buy up to six eCodes per booking.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 5
+                    },
+                    {
+                        "heading": "Are there any restrictions?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can go and watch a film on any day and at any time. Please be aware that for some cinema chains there are different eCode prices depending on the location of the cinema you want to visit: London and non-London (some cinema chains use the term 'inside M25 and outside M25'). Non-London eCodes cannot be redeemed at London cinemas.  \nThe definition of the London area differs depending on the cinema chain, so make sure you check the description and the cinema terms and conditions before buying your eCodes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 6
+                    },
+                    {
+                        "heading": "Can I pass the cinema eCodes onto family members?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "This benefit is intended for personal use only, but you may share eCodes with family members.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 7
+                    },
+                    {
+                        "heading": "How will purchases show on my card statement?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Any purchases will show on your credit or debit card statement as NatWest Tickets.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 8
+                    },
+                    {
+                        "heading": "I have a question not mentioned here?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can contact us by email at [enquiries@membershipbenefits.natwest.com]() and we'll be happy to give you more information.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 9
+                    },
+                    {
+                        "heading": "My local cinema isn't on the list of cinemas?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "At the moment we're not able to offer eCodes for all cinema chains, but we are always trying to get the best cinema discounts. We're currently offering discounted eCodes for 70% of the cinema screens in the UK.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 10
+                    },
+                    {
+                        "heading": "But what if I want to watch a 3D or 4D movie screening?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Not a problem. You can still use your eCode, but most cinema chains will ask you to pay an additional premium to upgrade your ticket to a 3D or 4D screening. Full details of this are available on the cinema's website.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 11
+                    },
+                    {
+                        "heading": "Can I use my eCodes for new film premieres?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes! You can use your eCodes any day and at any time.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 12
+                    },
+                    {
+                        "heading": "Can I pre-book my seats?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you're planning to book your tickets online on the cinema's website then most chains will allow you to pre-select your seats. However, seat selection is at each cinema's discretion and more information will be available to you at the time of redeeming your eCodes with the cinema.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 13
+                    },
+                    {
+                        "heading": "How do I use my eCode?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You've got two options - eCodes can be redeemed online or in person.  \n __Online:__ Go to the cinema's website and choose the location, date and time of the film you want to see. Enter your eCodes in the promotional box, which usually appears when you're selecting your seats or checking out. You'll need to enter each eCode individually, and booking or admin fees may still apply.  \n __In person:__ Head to the cinema and go to buy tickets as you normally would. Let them know you have eCodes to redeem and, as long as there are enough seats available, you'll be able to get your tickets.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 14
+                    },
+                    {
+                        "heading": "How quickly will I get my eCodes?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You'll be able to see your eCodes on the booking confirmation page as soon as your purchase has been confirmed. We'll also send you your eCodes in an email.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 15
+                    },
+                    {
+                        "heading": "How can I see my eCodes offline?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "No signal at the cinema can be really annoying! Once you've received your booking confirmation email, you should be able to open this offline. The email will also include a link to download your eCodes in PDF format. We recommend you save a copy of this to your phone before visiting the cinema if you're using your eCodes in person.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 16
+                    },
+                    {
+                        "heading": "Can I still use the discount benefit if I'm at the cinema?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes. If you have a phone with an internet connection you can log onto Membership Services and buy your eCodes, then simply show them at the Box Office to redeem them.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 17
+                    },
+                    {
+                        "heading": "How long are my eCodes valid for?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "All eCodes are valid for a minimum of six months from the point of purchase. Your booking confirmation email will show the expiry date of each eCode.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 18
+                    },
+                    {
+                        "heading": "My eCode has passed its expiry date, can I get a refund?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Unfortunately not; all eCodes are non-refundable.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 19
+                    },
+                    {
+                        "heading": "My eCode appears to be invalid, what's the problem?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "There are a number of reasons why your eCode might not be working:\n\n* The eCode has been entered wrong (e.g. a confusion between 0 'zero' and O)\n* The eCode has already been used\n* The eCode is not valid for that particular showing (e.g. 3D/4D, or at that particular cinema location - please refer to the terms and conditions on the cinema selection page)\n* The eCode has expired",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 20
+                    },
+                    {
+                        "heading": "Why are there different types of eCodes based on location?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "For certain cinema chains there are different prices depending on whether you're watching a film inside or outside London or the M25 radius. The definition of the area can be different depending on which cinema chain you want to buy an eCode for, so make sure you check the description and the cinema terms and conditions before paying.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 21
+                    },
+                    {
+                        "heading": "I've bought the wrong eCode, what do I do?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Unfortunately once eCodes have been bought they can't be refunded or exchanged, so please make sure you double check the type of eCode you've selected before paying.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 22
+                    },
+                    {
+                        "heading": "What are ODEON Limitless eCodes?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "As well as getting great deals on individual cinema tickets you can also get an ODEON Limitless eCode, which gives you a discount on ODEON Limitless annual membership. Joining ODEON Limitless means you can watch all the films you want as often as you like, for one annual fee. It also includes access to member treats, such as exclusive member previews, and 10% discount on selected in-cinema food and drink.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 23
+                    },
+                    {
+                        "heading": "Why can I only purchase one ODEON limitless eCode at a time?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "There is a maximum purchase value of £250 for all eCode purchases. If you would like to purchase two or more ODEON limitless eCodes, you will have to purchase one eCode per transaction. There is no limit to the number of transaction you can make.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 24
+                    },
+                    {
+                        "heading": "What is a Vue Every Film, Every Day Ticket?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "For specific Vue cinema sites across the UK, the standard price of a 2D admission ticket has been reduced to £4.99. Every Film, Every Day eCodes offer further discounts to these ticket types. It's important that you check that it is valid at your local Vue cinema before your purchase the eCode. There is a full list of participating sites in the terms and conditions which are available at the time you select your eCodes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 25
+                    }
+                ]
+            },
+            "sequenceNumber": 5
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "Silver Account Benefit Terms",
+                                "fileType": "PDF",
+                                "fileSize": " 10.2MB",
+                                "fileUrl": "https://personal.rbs.co.uk/content/dam/rbs_co_uk/currentaccounts/downloads/Reward/Silver-Benefit-Terms.pdf",
+                                "sequenceNumber": 1
+                            },
+                            {
+                                "title": "Silver Account Cinema Discount Service Terms",
+                                "fileType": "PDF",
+                                "fileSize": " 95KB",
+                                "fileUrl": "https://rbshub-qa.helix.affiniongroup.com/bca/HUB_RBS_4/Default/pdf/RBSCinemaDiscountServiceTermsSILVER.pdf",
+                                "sequenceNumber": 2
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)",
+                        "className": "link"
+                    }
+                ]
+            },
+            "sequenceNumber": 6
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/cinema-discount",
+            "name": "Cinema Tickets"
+        }
+    ]
+}

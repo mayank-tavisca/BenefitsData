@@ -1,0 +1,383 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "European Travel\n\nInsurance",
+                "buttonText": "Need to make a claim?",
+                "imageUrl": "/asset/natwest/silver/european-travel.jpg",
+                "linkType": "external"
+            },
+            "sequenceNumber": 1
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "Annual cover for European trips up to 22 days - including winter sports cover",
+                            "content": "Enjoy UK and European travel with annual cover for trips up to 22 days - including winter sports cover.\n\nIf you or those covered under this policy have a pre-existing medical condition, this policy will not cover any claims in relation to it. If you would like to see if cover is available, you can call us. You may have to pay extra for this or you may find that your condition cannot be covered.\n\nIf you, or those covered under this policy are aged 70 years or over, you must call us to pay an annual premium of £75 per person insured aged 70 or over.\n\n[Click here](https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=NatWestTravelInsurancescreening&title=Medical+Screening&data-tracking=Link%2cClick%2cMedical+screening) to check if you may need additional cover for any pre existing medical conditions. Alternatively call us on *[0345 601 5219](tel:03456015219)* (minicom *[0345 600 0512](tel:03456000512)*). Please be advised calls are recorded for training and quality assurance purposes.\n\nTravel Insurance is underwritten by U K Insurance Limited."
+                        },
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 2
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What you should know",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Who's covered?",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Cover applies to the Silver Account holder only. If it is a joint account, both parties are covered.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "22 day maximum limit",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "For trip duration, including winter sport holidays.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "UK trips",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "These must be pre-booked, for three or more consecutive days.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Existing medical conditions",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "If you or those covered under this policy have a pre-existing medical condition, this policy will not cover claims in relation to it. If you would like to see if cover is available, [click here](https://rbshub-qa.helix.affiniongroup.com/PartnerJump.aspx?partner=NatWestTravelInsurancescreening&title=Medical+Screening&data-tracking=Link%2cClick%2cMedical+Screesning) to answer a few simple questions. Alternatively you can call us. You may have to pay extra for this or you may find that your condition cannot be covered.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "What's covered?",
+                        "content": [
+                            {
+                                "orientation": "column",
+                                "content": [
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Emergency Medical and Dental expenses",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £10 million per person for medical and emergency expenses and hospital benefit up to £400 per person.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Legal expenses",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £50,000 cover and personal liability up to £2 million per event.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            },
+                                            {
+                                                "heading": "Cancellation, curtailment and abandonment",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £5,000 per person.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 3
+                                            }
+                                        ],
+                                        "sequenceNumber": 1
+                                    },
+                                    {
+                                        "content": [
+                                            {
+                                                "heading": "Winter sports cover",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "With no need to register.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 1
+                                            },
+                                            {
+                                                "heading": "Baggage cover",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £1,500 per claim per person for personal possessions that are lost, damaged, stole or destroyed while you're on holiday. Cover is limited to £300 per item and £500 overall for valuables.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 2
+                                            },
+                                            {
+                                                "heading": "Catastrophe cover",
+                                                "content": [
+                                                    {
+                                                        "type": "marked",
+                                                        "content": "Up to £500 per person if a disaster, such as fire, flood or avalanche, causes you to cancel or change your holiday.",
+                                                        "sequenceNumber": 1
+                                                    }
+                                                ],
+                                                "sequenceNumber": 3
+                                            }
+                                        ],
+                                        "sequenceNumber": 2
+                                    }
+                                ],
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    }
+                ]
+            },
+            "sequenceNumber": 3
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/natwest/silver/Telephone.jpg",
+                "heading": "Need to make a claim? No worries, we'll help",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "To make a travel insurance claim, [click here](https://rbshub-qa.helix.affiniongroup.com/secure/SignIn.aspx) to register your claim or call\n\n*[0345 601 5219](tel:03456015219)*\n\n(Minicom *[0345 600 0512](tel:03456000512)*). Lines are open 8am-6pm Monday to Friday, and closed Saturday, Sunday and bank holidays. Please be advised calls are recorded for training and quality assurance purposes.\n\nOverseas? If you are overseas and need emergency assistance, call\n\n*[+44 (0)125 230 8792](tel:+44(0)1252308792)*\n\n Lines are open 24/7, 365 days a year. Charges may apply and please be advised calls are recorded for training and quality assurance purposes.",
+                        "sequenceNumber": 1
+                    }
+                ]
+            },
+            "sequenceNumber": 4
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "How do I register for travel insurance ?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You don't need to register. Cover is provided automatically to the accountholder and any joint account holder only - subject to terms and conditions - see the 'Who is covered under my policy' question. If you or those covered under this policy have a pre-existing medical condition, this policy will not cover any claims in relation to it. If you would like to see if cover is available, you can call U K Insurance Limited. You may have to pay an additional premium and U K Insurance Limited reserve the right not to extend the policy.\n\nIf you or the joint account holder are aged 70 and over, you must call us each year in order to obtain cover. You will need to pay an annual premium of £75 per person insured aged 70 or over and be medically screened.\n\nIf you wish to call us, please call *[0345 601 5219](tel:03456015219)* (Minicom *[0345 600 0512](tel:03456000512)*). Lines are open 8am-8pm Monday to Friday and 9am-5pm Saturday and 10am to 5pm Sunday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 1
+                    },
+                    {
+                        "heading": "Where can I find my policy number?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you or your joint account holder are under 70 years old and haven't been medically screened, you can use our generic policy number AP20840119.\n\nIf you have been medically screened, purchased an upgrade or an extension (if 70 years old and over), your documents will show the number you need to use.\n",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 2
+                    },
+                    {
+                        "heading": "Do I need to take my policy document with me when I go on holiday?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Your policy document may come in handy if you have to seek medical attention or have other reasons for which you need to claim - so we would recommend that you take it with you. Please read it before you book a holiday and before you travel, to ensure you understand what cover you're getting and what you need to do in the event of a claim.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 3
+                    },
+                    {
+                        "heading": "How can I get a copy of my policy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "You can download a copy of your policy using the link below:\n\n[Silver Account Travel Insurance Policy (PDF, 396KB)](http://personal.natwest.com/content/dam/natwest_com/currentaccounts/downloads/Reward/Silver%20Travel%20Insurance%20Policy.pdf)\n\nIf you would like a hard copy of the policy, call us on *[0345 601 5219](tel:03456015219)* (Minicom *[0345 600 0512](tel:03456000512)*). Lines are open 8am-8pm Monday to Friday and 9am-5pm Saturday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 4
+                    },
+                    {
+                        "heading": "Can I add other cover to my policy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, you can add business, wedding, golf and hazardous activity cover. There's an extra premium for these types of cover. Call us on *[0345 601 5219](tel:03456015219)* (Minicom *[0345 600 0512](tel:03456000512)*) for more information. Lines are open 8am-8pm Monday to Friday, 9am-5pm Saturday and 10am-5pm Sunday (excluding bank and public holidays). Please be advised calls are recorded for training and quality assurance purposes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 5
+                    },
+                    {
+                        "heading": "Who is covered under the policy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The policy only covers the Silver Account holder or if you have a joint account, both account holders.\n\nYou cannot add anyone else to the policy.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 6
+                    },
+                    {
+                        "heading": "Does the policy cover holidays in the UK?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, these must be pre-booked, for three or more consecutive days.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 7
+                    },
+                    {
+                        "heading": "What's the longest holiday that can be covered under the policy?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "The maximum length of trip is 22 days for all holidays, including winter sport holidays.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 8
+                    },
+                    {
+                        "heading": "Can more than one trip be covered each year?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Yes, there's no limit on the number of trips that can be covered each year.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 9
+                    },
+                    {
+                        "heading": "When can I call to upgrade my cover, make a claim or to get emergency assistance?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "Number to call: *[0345 601 5219](tel:03456015219 )* (Minicom *[0345 600 0512](tel:03456000512)*). Please be advised calls are recorded for training and quality assurance purposes.\n\nTimes:\n\n- __For emergency assistance__, lines are open 24 hours a day, 7 days a week, +44 (0) 125 230 8792.\n- __For upgrades and medical screening enquiries__, lines are open 8am-8pm Monday to Friday and 9am-5pm Saturday and 10am to 5pm Sunday (excluding bank and public holidays).\n- __For claims__, lines are open 8am-6pm (excluding bank and public holidays).\n",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 10
+                    },
+                    {
+                        "heading": "I'm overseas and need emergency travel assistance, who do I contact?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you require emergency travel assistance when you are overseas, you can call us on +44 (0) 125 230 8792. Call charges apply and please be advised calls are recorded for training and quality assurance purposes.",
+                                "sequenceNumber": 1
+                            }
+                        ],
+                        "sequenceNumber": 11
+                    }
+                ]
+            },
+            "sequenceNumber": 5
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "Silver Account Benefit Terms ",
+                                "fileType": "PDF",
+                                "fileSize": " 2.76MB",
+                                "fileUrl": "http://personal.natwest.com/content/dam/natwest_com/currentaccounts/downloads/Reward/Silver%20Benefit%20Terms.pdf",
+                                "sequenceNumber": 1
+                            },
+                            {
+                                "title": "Silver Travel Insurance Policy",
+                                "fileType": "PDF",
+                                "fileSize": " 396KB",
+                                "fileUrl": "http://personal.natwest.com/content/dam/natwest_com/currentaccounts/downloads/Reward/Silver%20Travel%20Insurance%20Policy.pdf",
+                                "sequenceNumber": 2
+                            },
+                            {
+                                "title": "Silver Account Insurance Product Information Document",
+                                "fileType": "PDF",
+                                "fileSize": " 162KB",
+                                "fileUrl": "http://www.natwest.com/SilverAccountIPID",
+                                "sequenceNumber": 3
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)",
+                        "className": "link"
+                    }
+                ]
+            },
+            "sequenceNumber": 6
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/european-travel-insurance",
+            "name": "European Travel Insurance"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "type": "HeroBanner",
+            "metaData": {
+                "headingText": "Commission free\n\ntravel money",
+                "buttonText": "Need to order your travel money?",
+                "buttonURL": "section3",
+                "linkType": "sectionJump",
+                "imageUrl": "/asset/ulster_ri/private/preferential-money.jpg"
+            }
+        },
+        {
+            "type": "Section",
+            "metaData": {
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": {
+                            "heading": "You are automatically entitled to this benefit",
+                            "content": ""
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "MultiSection",
+            "metaData": {
+                "sections": [
+                    {
+                        "heading": "What you should know",
+                        "content": [
+                            {
+                                "orientation": "row",
+                                "content": [
+                                    {
+                                        "heading": "",
+                                        "content": [
+                                            {
+                                                "type": "marked",
+                                                "content": "As a ufirst Private customer, you will not pay any commission when you order your travel money at any Ulster Bank branch. Please ensure you mention your ufirst Private account.\n\nThis applies to transactions in a branch only. It does not include withdrawing money from a cash machine. The offer does not apply to transactions on foreign currency accounts, bank drafts, credit cards or foreign-exchange transactions carried out using any other Ulster Bank products or services. Any foreign exchange transaction you carry out will be governed by our terms and conditions."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ImageBanner",
+            "metaData": {
+                "imageUrl": "/asset/ulster_ri/private/intrest-free-article.jpg",
+                "heading": "Order your travel money now!",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": "You can order your travel money by contacting your Relationship Manager"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AccordionComponent",
+            "metaData": {
+                "heading": "Here's what other people are asking",
+                "content": [
+                    {
+                        "heading": "Can I open more than one packaged account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you already hold a packaged account from Ulster Bank and are satisfied to open an additional packaged account, please note that there may not be any additional advantage for you opening another account for the following: Travel Service, Airport Lounge Access, Tailored Personal Loan Rates, Tailored Mortgage Rates, Commission Free Travel Money, Worldwide Travel Insurance and Car Insurance discount (if you have more than two packaged accounts). You will also be charged an additional monthly membership fee on the new packaged account."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Are all the benefits available if I live abroad?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you are living abroad or plan on living abroad, it is important to note that some of the benefits attached to your account are only available when you are visiting the Republic of Ireland or when you are resident in the Republic of Ireland. For further information please call ufirst Private Membership Services on *[1890 825 125](tel:1890825125)* or from outside the Republic of Ireland call *[00 44 2392 676 982](tel:00442392676982)*."
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "What happens if I close or downgrade my ufirst Private account?",
+                        "content": [
+                            {
+                                "type": "marked",
+                                "content": "If you close or downgrade your ufirst Private account you will no longer be entitled to the benefits."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AdditionalInfo",
+            "metaData": {
+                "heading": "Important additional information",
+                "content": [
+                    {
+                        "type": "marked",
+                        "content": ""
+                    },
+                    {
+                        "type": "file",
+                        "content": [
+                            {
+                                "title": "ufirst Private User Guide",
+                                "fileType": "PDF",
+                                "fileSize": " 603KB",
+                                "fileUrl": "http://digital.ulsterbank.ie/content/dam/Ulster/documents/RI%20Region/ri-personal-ulst-brochures/private-banking-user-guide-ULST773RI.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "marked",
+                        "className": "link",
+                        "content": "Don't have Acrobat Reader? [Download it for free at Adobe](http://get.adobe.com/uk/reader/)"
+                    }
+                ]
+            }
+        }
+    ],
+    "breadCrumb": [
+        {
+            "path": "/explore/commission-free-travel-money",
+            "name": "Commission Free Travel Money"
+        }
+    ]
+}
